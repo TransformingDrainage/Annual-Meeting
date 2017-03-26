@@ -1,0 +1,2757 @@
+State,Site ID,Plot ID,year,drainage treatment ,crop ,yield (kg/ha)
+IN,DPAC,NE,2011,free drainage,soy,4132
+IN,DPAC,NW,2011,controlled drainage,soy,4159
+IN,DPAC,SE,2011,controlled drainage,soy,4206
+IN,DPAC,SW,2011,free drainage,soy,4084
+IN,DPAC,NE,2012,free drainage,corn,7869
+IN,DPAC,NW,2012,controlled drainage,corn,8543
+IN,DPAC,SE,2012,controlled drainage,corn,7869
+IN,DPAC,SW,2012,free drainage,corn,7699
+IN,DPAC,NE,2013,free drainage,soy,3956
+IN,DPAC,NW,2013,controlled drainage,soy,4091
+IN,DPAC,SE,2013,controlled drainage,soy,4064
+IN,DPAC,SW,2013,free drainage,soy,4010
+IN,DPAC,NE,2014,free drainage,corn,12272
+IN,DPAC,NW,2014,controlled drainage,corn,12254
+IN,DPAC,SE,2014,controlled drainage,corn,12291
+IN,DPAC,SW,2014,free drainage,corn,11850
+IN,DPAC,NE,2015,free drainage,soy,3309
+IN,DPAC,NW,2015,controlled drainage,soy,3552
+IN,DPAC,SE,2015,controlled drainage,soy,3458
+IN,DPAC,SW,2015,free drainage,soy,3485
+OH,HENRY,West,2008,free drainage,popcorn,3619
+OH,HENRY,East,2008,controlled drainage,popcorn,3681
+OH,HENRY,West,2009,free drainage,corn,11646
+OH,HENRY,East,2009,controlled drainage,corn,13665
+OH,HENRY,West,2010,free drainage,soy,3016
+OH,HENRY,East,2010,controlled drainage,soy,3016
+OH,HENRY,West,2011,free drainage,popcorn,16523
+OH,HENRY,East,2011,controlled drainage,popcorn,16523
+MN,HICKS_B,BW,2006,controlled drainage,,12103
+MN,HICKS_B,BE,2006,free drainage,,12103
+MN,HICKS_B,BW,2007,controlled drainage,,10159
+MN,HICKS_B,BE,2007,free drainage,,9908
+MN,HICKS_B,BW,2009,controlled drainage,,14110
+MN,HICKS_B,BE,2009,free drainage,,12667
+MN,HICKS_B,BW,2010,controlled drainage,,11037
+MN,HICKS_B,BE,2010,free drainage,,11413
+MN,HICKS_B,BW,2011,controlled drainage,,10347
+MN,HICKS_B,BE,2011,free drainage,,10222
+MN,HICKS_B,BE32,2012,free drainage,corn,9403
+MN,HICKS_B,BE35,2012,free drainage,corn,8526
+MN,HICKS_B,BE40,2012,free drainage,corn,10418
+MN,HICKS_B,BW8,2012,controlled drainage,corn,9663
+MN,HICKS_B,BW19,2012,controlled drainage,corn,8641
+MN,HICKS_B,BW25,2012,controlled drainage,corn,9656
+MN,HICKS_B,BE32,2013,free drainage,corn,9021
+MN,HICKS_B,BE35,2013,free drainage,corn,7389
+MN,HICKS_B,BE40,2013,free drainage,corn,9795
+MN,HICKS_B,BW8,2013,controlled drainage,corn,9356
+MN,HICKS_B,BW19,2013,controlled drainage,corn,7972
+MN,HICKS_B,BW25,2013,controlled drainage,corn,9250
+MN,HICKS_B,BE32,2014,free drainage,corn,9370
+MN,HICKS_B,BE35,2014,free drainage,corn,9130
+MN,HICKS_B,BE40,2014,free drainage,corn,9134
+MN,HICKS_B,BW8,2014,controlled drainage,corn,8540
+MN,HICKS_B,BW19,2014,controlled drainage,corn,9164
+MN,HICKS_B,BW25,2014,controlled drainage,corn,10035
+MN,HICKS_B,BE32,2015,free drainage,corn,13116
+MN,HICKS_B,BE35,2015,free drainage,corn,11774
+MN,HICKS_B,BE40,2015,free drainage,corn,13403
+MN,HICKS_B,BW8,2015,controlled drainage,corn,10500
+MN,HICKS_B,BW19,2015,controlled drainage,corn,12816
+MN,HICKS_B,BW25,2015,controlled drainage,corn,12602
+MO,MUDS2,101,2010,no drainage,corn,5160
+MO,MUDS2,102,2010,no drainage,corn,6798
+MO,MUDS2,103,2010,controlled drainage,corn,7055
+MO,MUDS2,104,2010,free drainage,corn,7865
+MO,MUDS2,105,2010,free drainage,corn,6723
+MO,MUDS2,106,2010,controlled drainage,corn,6767
+MO,MUDS2,107,2010,no drainage,corn,2191
+MO,MUDS2,201,2010,controlled drainage,corn,7093
+MO,MUDS2,202,2010,controlled drainage,corn,6591
+MO,MUDS2,203,2010,no drainage,corn,6641
+MO,MUDS2,204,2010,no drainage,corn,7645
+MO,MUDS2,205,2010,free drainage,corn,5882
+MO,MUDS2,206,2010,free drainage,corn,6227
+MO,MUDS2,207,2010,no drainage,corn,2969
+MO,MUDS2,101,2011,no drainage,corn,1381
+MO,MUDS2,102,2011,no drainage,corn,5022
+MO,MUDS2,103,2011,controlled drainage,corn,3515
+MO,MUDS2,104,2011,free drainage,corn,3302
+MO,MUDS2,105,2011,free drainage,corn,3879
+MO,MUDS2,106,2011,controlled drainage,corn,3132
+MO,MUDS2,107,2011,no drainage,corn,885
+MO,MUDS2,201,2011,controlled drainage,corn,4501
+MO,MUDS2,202,2011,controlled drainage,corn,5116
+MO,MUDS2,203,2011,no drainage,corn,5524
+MO,MUDS2,204,2011,no drainage,corn,4306
+MO,MUDS2,205,2011,free drainage,corn,4689
+MO,MUDS2,206,2011,free drainage,corn,4814
+MO,MUDS2,207,2011,no drainage,corn,873
+MO,MUDS2,101,2012,no drainage,corn,2705
+MO,MUDS2,102,2012,no drainage,corn,3233
+MO,MUDS2,103,2012,controlled drainage,corn,3609
+MO,MUDS2,104,2012,free drainage,corn,3195
+MO,MUDS2,105,2012,free drainage,corn,3214
+MO,MUDS2,106,2012,controlled drainage,corn,3427
+MO,MUDS2,107,2012,no drainage,corn,860
+MO,MUDS2,201,2012,controlled drainage,corn,3333
+MO,MUDS2,202,2012,controlled drainage,corn,3534
+MO,MUDS2,203,2012,no drainage,corn,3170
+MO,MUDS2,204,2012,no drainage,corn,2919
+MO,MUDS2,205,2012,free drainage,corn,3069
+MO,MUDS2,206,2012,free drainage,corn,3195
+MO,MUDS2,207,2012,no drainage,corn,672
+MO,MUDS2,101,2013,no drainage,corn,5568
+MO,MUDS2,102,2013,no drainage,corn,6817
+MO,MUDS2,103,2013,controlled drainage,corn,8198
+MO,MUDS2,104,2013,free drainage,corn,8813
+MO,MUDS2,105,2013,free drainage,corn,8367
+MO,MUDS2,106,2013,controlled drainage,corn,8687
+MO,MUDS2,107,2013,no drainage,corn,3358
+MO,MUDS2,201,2013,controlled drainage,corn,8198
+MO,MUDS2,202,2013,controlled drainage,corn,8951
+MO,MUDS2,203,2013,no drainage,corn,8719
+MO,MUDS2,204,2013,no drainage,corn,8581
+MO,MUDS2,205,2013,free drainage,corn,8179
+MO,MUDS2,206,2013,free drainage,corn,9001
+MO,MUDS2,207,2013,no drainage,corn,1845
+MO,MUDS2,101,2014,no drainage,corn,4783
+MO,MUDS2,102,2014,no drainage,corn,7827
+MO,MUDS2,103,2014,controlled drainage,corn,7281
+MO,MUDS2,104,2014,free drainage,corn,7438
+MO,MUDS2,105,2014,free drainage,corn,6955
+MO,MUDS2,106,2014,controlled drainage,corn,7551
+MO,MUDS2,107,2014,no drainage,corn,4237
+MO,MUDS2,201,2014,controlled drainage,corn,10288
+MO,MUDS2,202,2014,controlled drainage,corn,11562
+MO,MUDS2,203,2014,no drainage,corn,11324
+MO,MUDS2,204,2014,no drainage,corn,10388
+MO,MUDS2,205,2014,free drainage,corn,10119
+MO,MUDS2,206,2014,free drainage,corn,10131
+MO,MUDS2,207,2014,no drainage,corn,3189
+MO,MUDS2,101,2015,no drainage,corn,2486
+MO,MUDS2,102,2015,no drainage,corn,3082
+MO,MUDS2,103,2015,controlled drainage,corn,2191
+MO,MUDS2,104,2015,free drainage,corn,2172
+MO,MUDS2,105,2015,free drainage,corn,1638
+MO,MUDS2,106,2015,controlled drainage,corn,1645
+MO,MUDS2,107,2015,no drainage,corn,490
+MO,MUDS2,201,2015,controlled drainage,corn,3547
+MO,MUDS2,202,2015,controlled drainage,corn,2749
+MO,MUDS2,203,2015,no drainage,corn,3308
+MO,MUDS2,204,2015,no drainage,corn,4846
+MO,MUDS2,205,2015,free drainage,corn,3107
+MO,MUDS2,206,2015,free drainage,corn,1739
+MO,MUDS2,207,2015,no drainage,corn,1249
+MO,MUDS2,101,2016,no drainage,corn,10830
+MO,MUDS2,102,2016,no drainage,corn,12009
+MO,MUDS2,103,2016,controlled drainage,corn,13071
+MO,MUDS2,104,2016,free drainage,corn,12749
+MO,MUDS2,105,2016,free drainage,corn,12199
+MO,MUDS2,106,2016,controlled drainage,corn,13193
+MO,MUDS2,107,2016,no drainage,corn,9034
+MO,MUDS2,201,2016,controlled drainage,corn,12820
+MO,MUDS2,202,2016,controlled drainage,corn,13396
+MO,MUDS2,203,2016,no drainage,corn,13378
+MO,MUDS2,204,2016,no drainage,corn,12720
+MO,MUDS2,205,2016,free drainage,corn,13291
+MO,MUDS2,206,2016,free drainage,corn,13227
+MO,MUDS2,207,2016,no drainage,corn,8540
+MO,MUDS4,101,2011,controlled drainage,corn,12169
+MO,MUDS4,102,2011,controlled drainage,corn,11885
+MO,MUDS4,103,2011,free drainage,corn,11861
+MO,MUDS4,104,2011,free drainage,corn,13094
+MO,MUDS4,105,2011,no drainage,corn,12822
+MO,MUDS4,106,2011,no drainage,corn,12995
+MO,MUDS4,201,2011,free drainage,corn,12213
+MO,MUDS4,202,2011,free drainage,corn,12570
+MO,MUDS4,203,2011,controlled drainage,corn,12372
+MO,MUDS4,204,2011,controlled drainage,corn,12661
+MO,MUDS4,205,2011,no drainage,corn,11620
+MO,MUDS4,206,2011,no drainage,corn,12225
+MO,MUDS4,101,2012,controlled drainage,corn,6651
+MO,MUDS4,102,2012,controlled drainage,corn,7111
+MO,MUDS4,103,2012,free drainage,corn,6768
+MO,MUDS4,104,2012,free drainage,corn,6476
+MO,MUDS4,105,2012,no drainage,corn,5645
+MO,MUDS4,106,2012,no drainage,corn,6511
+MO,MUDS4,201,2012,free drainage,corn,6248
+MO,MUDS4,202,2012,free drainage,corn,6471
+MO,MUDS4,203,2012,controlled drainage,corn,6572
+MO,MUDS4,204,2012,controlled drainage,corn,6010
+MO,MUDS4,205,2012,no drainage,corn,5095
+MO,MUDS4,206,2012,no drainage,corn,5882
+MO,MUDS4,101,2013,controlled drainage,corn,9061
+MO,MUDS4,102,2013,controlled drainage,corn,9061
+MO,MUDS4,103,2013,free drainage,corn,8948
+MO,MUDS4,104,2013,free drainage,corn,10161
+MO,MUDS4,105,2013,no drainage,corn,8043
+MO,MUDS4,106,2013,no drainage,corn,8090
+MO,MUDS4,201,2013,free drainage,corn,7557
+MO,MUDS4,202,2013,free drainage,corn,9447
+MO,MUDS4,203,2013,controlled drainage,corn,9230
+MO,MUDS4,204,2013,controlled drainage,corn,8314
+MO,MUDS4,205,2013,no drainage,corn,8836
+MO,MUDS4,206,2013,no drainage,corn,8688
+IA,SERF_IA,S1,2007,shallow drainage,corn,13402
+IA,SERF_IA,S2,2007,free drainage,corn,13791
+IA,SERF_IA,S3,2007,controlled drainage,corn,12048
+IA,SERF_IA,S4,2007,controlled drainage,corn,12973
+IA,SERF_IA,S5,2007,free drainage,corn,12395
+IA,SERF_IA,S6,2007,shallow drainage,corn,12597
+IA,SERF_IA,S7,2007,no drainage,corn,12285
+IA,SERF_IA,S8,2007,no drainage,corn,12205
+IA,SERF_IA,S1,2007,shallow drainage,soy,3329
+IA,SERF_IA,S2,2007,free drainage,soy,4214
+IA,SERF_IA,S3,2007,controlled drainage,soy,4065
+IA,SERF_IA,S4,2007,controlled drainage,soy,4534
+IA,SERF_IA,S5,2007,free drainage,soy,4683
+IA,SERF_IA,S6,2007,shallow drainage,soy,4589
+IA,SERF_IA,S7,2007,no drainage,soy,4367
+IA,SERF_IA,S8,2007,no drainage,soy,2819
+IA,SERF_IA,S1,2008,shallow drainage,corn,12809
+IA,SERF_IA,S2,2008,free drainage,corn,12543
+IA,SERF_IA,S3,2008,controlled drainage,corn,12156
+IA,SERF_IA,S4,2008,controlled drainage,corn,12512
+IA,SERF_IA,S5,2008,free drainage,corn,12625
+IA,SERF_IA,S6,2008,shallow drainage,corn,12967
+IA,SERF_IA,S7,2008,no drainage,corn,12764
+IA,SERF_IA,S8,2008,no drainage,corn,13180
+IA,SERF_IA,S1,2008,shallow drainage,soy,3172
+IA,SERF_IA,S2,2008,free drainage,soy,3503
+IA,SERF_IA,S3,2008,controlled drainage,soy,3892
+IA,SERF_IA,S4,2008,controlled drainage,soy,3431
+IA,SERF_IA,S5,2008,free drainage,soy,3723
+IA,SERF_IA,S6,2008,shallow drainage,soy,3783
+IA,SERF_IA,S7,2008,no drainage,soy,3527
+IA,SERF_IA,S8,2008,no drainage,soy,3809
+IA,SERF_IA,S1,2009,shallow drainage,corn,13487
+IA,SERF_IA,S2,2009,free drainage,corn,13313
+IA,SERF_IA,S3,2009,controlled drainage,corn,9145
+IA,SERF_IA,S4,2009,controlled drainage,corn,13224
+IA,SERF_IA,S5,2009,free drainage,corn,11606
+IA,SERF_IA,S6,2009,shallow drainage,corn,10253
+IA,SERF_IA,S7,2009,no drainage,corn,10671
+IA,SERF_IA,S8,2009,no drainage,corn,9697
+IA,SERF_IA,S1,2009,shallow drainage,soy,5063
+IA,SERF_IA,S2,2009,free drainage,soy,4811
+IA,SERF_IA,S3,2009,controlled drainage,soy,5315
+IA,SERF_IA,S4,2009,controlled drainage,soy,4448
+IA,SERF_IA,S5,2009,free drainage,soy,5564
+IA,SERF_IA,S6,2009,shallow drainage,soy,4578
+IA,SERF_IA,S7,2009,no drainage,soy,2348
+IA,SERF_IA,S8,2009,no drainage,soy,4694
+IA,SERF_IA,S1,2010,shallow drainage,corn,12416
+IA,SERF_IA,S2,2010,free drainage,corn,13029
+IA,SERF_IA,S3,2010,controlled drainage,corn,10942
+IA,SERF_IA,S4,2010,controlled drainage,corn,12384
+IA,SERF_IA,S5,2010,free drainage,corn,11949
+IA,SERF_IA,S6,2010,shallow drainage,corn,11389
+IA,SERF_IA,S7,2010,no drainage,corn,10980
+IA,SERF_IA,S8,2010,no drainage,corn,11972
+IA,SERF_IA,S1,2010,shallow drainage,soy,4114
+IA,SERF_IA,S2,2010,free drainage,soy,4436
+IA,SERF_IA,S3,2010,controlled drainage,soy,3677
+IA,SERF_IA,S4,2010,controlled drainage,soy,4460
+IA,SERF_IA,S5,2010,free drainage,soy,3702
+IA,SERF_IA,S6,2010,shallow drainage,soy,3559
+IA,SERF_IA,S7,2010,no drainage,soy,3537
+IA,SERF_IA,S8,2010,no drainage,soy,3594
+IA,SERF_IA,S1,2011,shallow drainage,corn,13105
+IA,SERF_IA,S2,2011,free drainage,corn,12562
+IA,SERF_IA,S3,2011,controlled drainage,corn,12678
+IA,SERF_IA,S4,2011,controlled drainage,corn,11450
+IA,SERF_IA,S5,2011,free drainage,corn,11384
+IA,SERF_IA,S6,2011,shallow drainage,corn,11522
+IA,SERF_IA,S7,2011,no drainage,corn,12334
+IA,SERF_IA,S8,2011,no drainage,corn,11635
+IA,SERF_IA,S1,2011,shallow drainage,soy,3602
+IA,SERF_IA,S2,2011,free drainage,soy,3758
+IA,SERF_IA,S3,2011,controlled drainage,soy,3814
+IA,SERF_IA,S4,2011,controlled drainage,soy,3368
+IA,SERF_IA,S5,2011,free drainage,soy,3737
+IA,SERF_IA,S6,2011,shallow drainage,soy,3830
+IA,SERF_IA,S7,2011,no drainage,soy,3855
+IA,SERF_IA,S8,2011,no drainage,soy,3366
+IA,SERF_IA,S1,2012,shallow drainage,corn,11908
+IA,SERF_IA,S2,2012,free drainage,corn,13216
+IA,SERF_IA,S3,2012,controlled drainage,corn,11873
+IA,SERF_IA,S4,2012,controlled drainage,corn,11906
+IA,SERF_IA,S5,2012,free drainage,corn,11744
+IA,SERF_IA,S6,2012,shallow drainage,corn,11134
+IA,SERF_IA,S7,2012,no drainage,corn,10620
+IA,SERF_IA,S8,2012,no drainage,corn,12691
+IA,SERF_IA,S1,2012,shallow drainage,soy,3791
+IA,SERF_IA,S2,2012,free drainage,soy,3745
+IA,SERF_IA,S3,2012,controlled drainage,soy,4060
+IA,SERF_IA,S4,2012,controlled drainage,soy,3967
+IA,SERF_IA,S5,2012,free drainage,soy,4178
+IA,SERF_IA,S6,2012,shallow drainage,soy,4301
+IA,SERF_IA,S7,2012,no drainage,soy,3922
+IA,SERF_IA,S8,2012,no drainage,soy,4015
+IA,SERF_IA,S1,2013,shallow drainage,corn,7786
+IA,SERF_IA,S2,2013,free drainage,corn,8759
+IA,SERF_IA,S3,2013,controlled drainage,corn,8505
+IA,SERF_IA,S4,2013,controlled drainage,corn,8303
+IA,SERF_IA,S5,2013,free drainage,corn,9502
+IA,SERF_IA,S6,2013,shallow drainage,corn,9048
+IA,SERF_IA,S7,2013,no drainage,corn,8871
+IA,SERF_IA,S8,2013,no drainage,corn,8641
+IA,SERF_IA,S1,2013,shallow drainage,soy,2548
+IA,SERF_IA,S2,2013,free drainage,soy,2318
+IA,SERF_IA,S3,2013,controlled drainage,soy,2485
+IA,SERF_IA,S4,2013,controlled drainage,soy,2513
+IA,SERF_IA,S5,2013,free drainage,soy,2624
+IA,SERF_IA,S6,2013,shallow drainage,soy,2605
+IA,SERF_IA,S7,2013,no drainage,soy,2376
+IA,SERF_IA,S8,2013,no drainage,soy,2407
+IA,SERF_IA,S1,2014,shallow drainage,corn,13247
+IA,SERF_IA,S2,2014,free drainage,corn,13319
+IA,SERF_IA,S3,2014,controlled drainage,corn,13992
+IA,SERF_IA,S4,2014,controlled drainage,corn,13593
+IA,SERF_IA,S5,2014,free drainage,corn,14220
+IA,SERF_IA,S6,2014,shallow drainage,corn,13687
+IA,SERF_IA,S7,2014,no drainage,corn,12673
+IA,SERF_IA,S8,2014,no drainage,corn,13654
+IA,SERF_IA,S1,2014,shallow drainage,soy,4169
+IA,SERF_IA,S2,2014,free drainage,soy,3923
+IA,SERF_IA,S3,2014,controlled drainage,soy,4049
+IA,SERF_IA,S4,2014,controlled drainage,soy,4203
+IA,SERF_IA,S5,2014,free drainage,soy,4178
+IA,SERF_IA,S6,2014,shallow drainage,soy,3975
+IA,SERF_IA,S7,2014,no drainage,soy,3372
+IA,SERF_IA,S8,2014,no drainage,soy,3333
+IA,SERF_IA,S1,2015,shallow drainage,corn,15225
+IA,SERF_IA,S2,2015,free drainage,corn,14923
+IA,SERF_IA,S3,2015,controlled drainage,corn,11469
+IA,SERF_IA,S4,2015,controlled drainage,corn,14764
+IA,SERF_IA,S5,2015,free drainage,corn,13588
+IA,SERF_IA,S6,2015,shallow drainage,corn,12472
+IA,SERF_IA,S7,2015,no drainage,corn,12475
+IA,SERF_IA,S8,2015,no drainage,corn,11379
+IA,SERF_IA,S1,2015,shallow drainage,soy,4103
+IA,SERF_IA,S2,2015,free drainage,soy,4378
+IA,SERF_IA,S3,2015,controlled drainage,soy,3874
+IA,SERF_IA,S4,2015,controlled drainage,soy,4530
+IA,SERF_IA,S5,2015,free drainage,soy,4383
+IA,SERF_IA,S6,2015,shallow drainage,soy,4692
+IA,SERF_IA,S7,2015,no drainage,soy,3624
+IA,SERF_IA,S8,2015,no drainage,soy,4341
+IA,SERF_IA,S1,2016,shallow drainage,corn,11364
+IA,SERF_IA,S2,2016,free drainage,corn,11169
+IA,SERF_IA,S3,2016,controlled drainage,corn,12949
+IA,SERF_IA,S4,2016,controlled drainage,corn,10703
+IA,SERF_IA,S5,2016,free drainage,corn,12957
+IA,SERF_IA,S6,2016,shallow drainage,corn,13144
+IA,SERF_IA,S7,2016,no drainage,corn,10097
+IA,SERF_IA,S8,2016,no drainage,corn,13062
+IA,SERF_IA,S1,2016,shallow drainage,soy,3044
+IA,SERF_IA,S2,2016,free drainage,soy,3336
+IA,SERF_IA,S3,2016,controlled drainage,soy,4229
+IA,SERF_IA,S4,2016,controlled drainage,soy,3399
+IA,SERF_IA,S5,2016,free drainage,soy,3751
+IA,SERF_IA,S6,2016,shallow drainage,soy,3953
+IA,SERF_IA,S7,2016,no drainage,soy,4053
+IA,SERF_IA,S8,2016,no drainage,soy,4158
+SD,SERF_SD,Plot7,2016,free drainage,corn,12138
+SD,SERF_SD,Plot8,2016,controlled drainage,corn,11115
+OH,STJOHNS,WN,2007,controlled drainage,wheat,3901
+OH,STJOHNS,WS,2007,free drainage,wheat,3901
+OH,STJOHNS,WN,2008,controlled drainage,corn,10985
+OH,STJOHNS,WS,2008,free drainage,corn,10985
+OH,STJOHNS,WN,2009,controlled drainage,soy,3423
+OH,STJOHNS,WS,2009,free drainage,soy,3423
+OH,STJOHNS,WN,2010,controlled drainage,corn,13433
+OH,STJOHNS,WS,2010,free drainage,corn,13433
+OH,STJOHNS,WN,2011,controlled drainage,soy,3046
+OH,STJOHNS,WS,2011,free drainage,soy,3346
+OH,STJOHNS,WN,2012,controlled drainage,wheat,6523
+OH,STJOHNS,WS,2012,free drainage,wheat,6523
+OH,STJOHNS,WN,2013,controlled drainage,corn,14248
+OH,STJOHNS,WS,2013,free drainage,corn,14428
+OH,STJOHNS,WN,2014,controlled drainage,soy,3201
+OH,STJOHNS,WS,2014,free drainage,soy,3201
+OH,STJOHNS,WN,2015,controlled drainage,corn,11300
+OH,STJOHNS,WS,2015,free drainage,corn,11300
+IA,STORY,1,2006,controlled drainage,corn,12306
+IA,STORY,2,2006,controlled drainage,corn,11692
+IA,STORY,3,2006,controlled drainage,corn,12010
+IA,STORY,4,2006,free drainage,corn,12125
+IA,STORY,5,2006,free drainage,corn,11319
+IA,STORY,6,2006,free drainage,corn,11198
+IA,STORY,7,2006,free drainage,corn,11026
+IA,STORY,8,2006,free drainage,corn,11199
+IA,STORY,9,2006,free drainage,corn,11020
+IA,STORY,10,2006,controlled drainage,corn,10856
+IA,STORY,11,2006,free drainage,corn,11819
+IA,STORY,12,2006,free drainage,corn,10452
+IA,STORY,1,2007,controlled drainage,soy,4241
+IA,STORY,2,2007,controlled drainage,soy,4302
+IA,STORY,3,2007,controlled drainage,soy,4133
+IA,STORY,4,2007,free drainage,soy,4086
+IA,STORY,5,2007,free drainage,soy,3864
+IA,STORY,6,2007,free drainage,soy,3947
+IA,STORY,7,2007,free drainage,soy,3917
+IA,STORY,8,2007,free drainage,soy,3912
+IA,STORY,9,2007,free drainage,soy,3875
+IA,STORY,10,2007,controlled drainage,soy,4189
+IA,STORY,11,2007,free drainage,soy,4039
+IA,STORY,12,2007,free drainage,soy,3711
+IA,STORY,1,2008,controlled drainage,corn,14373
+IA,STORY,2,2008,controlled drainage,corn,13965
+IA,STORY,3,2008,controlled drainage,corn,13744
+IA,STORY,4,2008,free drainage,corn,17795
+IA,STORY,5,2008,free drainage,corn,14285
+IA,STORY,6,2008,free drainage,corn,14885
+IA,STORY,7,2008,free drainage,corn,14517
+IA,STORY,8,2008,free drainage,corn,14111
+IA,STORY,9,2008,free drainage,corn,13477
+IA,STORY,10,2008,controlled drainage,corn,14225
+IA,STORY,11,2008,free drainage,corn,13677
+IA,STORY,12,2008,free drainage,corn,NA
+IA,STORY,1,2009,controlled drainage,soy,3814
+IA,STORY,2,2009,controlled drainage,soy,4042
+IA,STORY,3,2009,controlled drainage,soy,4055
+IA,STORY,4,2009,free drainage,soy,3787
+IA,STORY,5,2009,free drainage,soy,3993
+IA,STORY,6,2009,free drainage,soy,3727
+IA,STORY,7,2009,free drainage,soy,3561
+IA,STORY,8,2009,free drainage,soy,3765
+IA,STORY,9,2009,free drainage,soy,3724
+IA,STORY,10,2009,controlled drainage,soy,4237
+IA,STORY,11,2009,free drainage,soy,4058
+IA,STORY,12,2009,free drainage,soy,3671
+NC,TIDE_OLD,H2,2007,free drainage,corn,10637
+NC,TIDE_OLD,H3,2007,controlled drainage,corn,11566
+NC,TIDE_OLD,H4,2007,controlled drainage,corn,10481
+NC,TIDE_OLD,H5,2007,free drainage,corn,9101
+NC,TIDE_OLD,H2,2008,free drainage,soy,2588
+NC,TIDE_OLD,H3,2008,controlled drainage,soy,3039
+NC,TIDE_OLD,H4,2008,controlled drainage,soy,3095
+NC,TIDE_OLD,H5,2008,free drainage,soy,3161
+NC,TIDE_OLD,H2,2008,free drainage,wheat,3212
+NC,TIDE_OLD,H3,2008,controlled drainage,wheat,3306
+NC,TIDE_OLD,H4,2008,controlled drainage,wheat,3642
+NC,TIDE_OLD,H5,2008,free drainage,wheat,3609
+NC,TIDE_OLD,H2,2009,free drainage,corn,9603
+NC,TIDE_OLD,H3,2009,controlled drainage,corn,9996
+NC,TIDE_OLD,H4,2009,controlled drainage,corn,8264
+NC,TIDE_OLD,H5,2009,free drainage,corn,7980
+NC,TIDE_OLD,H2,2010,free drainage,soy,2554
+NC,TIDE_OLD,H3,2010,controlled drainage,soy,2258
+NC,TIDE_OLD,H4,2010,controlled drainage,soy,2219
+NC,TIDE_OLD,H5,2010,free drainage,soy,2747
+NC,TIDE_OLD,H2,2010,free drainage,wheat,1956
+NC,TIDE_OLD,H3,2010,controlled drainage,wheat,1821
+NC,TIDE_OLD,H4,2010,controlled drainage,wheat,2096
+NC,TIDE_OLD,H5,2010,free drainage,wheat,1246
+NC,TIDE_OLD,H2,2011,free drainage,corn,6389
+NC,TIDE_OLD,H3,2011,controlled drainage,corn,6982
+NC,TIDE_OLD,H4,2011,controlled drainage,corn,5935
+NC,TIDE_OLD,H5,2011,free drainage,corn,5700
+NC,TIDE_OLD,H2,2012,free drainage,soy,3716
+NC,TIDE_OLD,H3,2012,controlled drainage,soy,3362
+NC,TIDE_OLD,H4,2012,controlled drainage,soy,2977
+NC,TIDE_OLD,H5,2012,free drainage,soy,3465
+NC,TIDE_OLD,H2,2012,free drainage,wheat,4948
+NC,TIDE_OLD,H3,2012,controlled drainage,wheat,4746
+NC,TIDE_OLD,H4,2012,controlled drainage,wheat,5011
+NC,TIDE_OLD,H5,2012,free drainage,wheat,4596
+OH,AUGLA,East,2010,controlled drainage ,soy,4579.7
+OH,AUGLA,West,2010,free drainage,soy,4579.7
+OH,AUGLA,East,2011,controlled drainage ,popcorn,3688.1
+OH,AUGLA,West,2011,free drainage,popcorn,3688.1
+OH,AUGLA,East,2012,free drainage,corn,8222.9
+OH,AUGLA,West,2012,controlled drainage ,corn,8222.9
+ND,CLAY_C,FD,2012,free drainage,corn,10733.7
+ND,CLAY_C,FD,2013,free drainage,soy,3624.8
+ND,CLAY_C,FD,2014,free drainage,soy,3907.2
+ND,CLAY_C,FD,2015,free drainage,corn,11361.4
+ND,CLAY_C,FD,2016,free drainage,soy,2690
+ND,CLAY_R,CD,2012,controlled drainage with subirrigation,corn,7783.5
+ND,CLAY_R,SI,2012,controlled drainage ,corn,8850.6
+ND,CLAY_R,CD,2013,controlled drainage ,corn,10922
+ND,CLAY_R,SI,2013,controlled drainage with subirrigation,corn,11110.3
+ND,CLAY_R,CD,2014,controlled drainage ,soy,3308.7
+ND,CLAY_R,SI,2014,controlled drainage with subirrigation,soy,3678.6
+ND,CLAY_R,CD,2015,controlled drainage ,sugarbeet,57344
+ND,CLAY_R,SI,2015,controlled drainage with subirrigation,sugarbeet,57344
+ND,CLAY_R,CD,2016,controlled drainage with subirrigation,corn,11430.4
+ND,CLAY_R,SI,2016,controlled drainage with subirrigation,corn,11474.4
+ND,CLAY_U,UD,2012,no drainage,corn,11800.8
+ND,CLAY_U,UD,2013,no drainage,soy,2911.9
+ND,CLAY_U,UD,2014,no drainage,corn,7507.3
+ND,CLAY_U,UD,2015,no drainage,soy,3093.5
+ND,CLAY_U,UD,2016,no drainage,soy,2898.5
+OH,CRAWF,North,2007,controlled drainage,wheat,4868.9
+OH,CRAWF,South,2007,free drainage,wheat,4868.9
+OH,CRAWF,North,2008,controlled drainage,corn,9497.1
+OH,CRAWF,South,2008,free drainage,corn,9497.1
+OH,CRAWF,North,2009,controlled drainage,soy,na
+OH,CRAWF,South,2009,free drainage,soy,na
+OH,CRAWF,North,2010,controlled drainage,corn,9038.9
+OH,CRAWF,South,2010,free drainage,corn,9038.9
+OH,CRAWF,North,2011,controlled drainage,soy,3698.8
+OH,CRAWF,South,2011,free drainage,soy,3698.8
+OH,DEFI_M,East,2006,,soy,3174.2
+OH,DEFI_M,West,2006,,soy,3174.2
+OH,DEFI_M,East,2007,,corn,9365.3
+OH,DEFI_M,West,2007,,corn,9365.3
+OH,DEFI_M,East,2008,controlled drainage,soy,1883
+OH,DEFI_M,West,2008,free drainage,soy,1883
+OH,DEFI_M,East,2009,controlled drainage,corn,7783.5
+OH,DEFI_M,West,2009,free drainage,corn,8725
+OH,DEFI_M,East,2010,controlled drainage,soy,2616
+OH,DEFI_M,West,2010,free drainage,soy,2616
+OH,DEFI_M,East,2011,controlled drainage,soy,3302
+OH,DEFI_M,West,2011,free drainage,soy,3302
+OH,DEFI_M,East,2012,free drainage,corn,2918.8
+OH,DEFI_M,West,2012,controlled drainage,corn,2918.8
+OH,DEFI_R,6,1997,controlled drainage with subirrigation,corn,"10,351"
+OH,DEFI_R,7,1997,controlled drainage with subirrigation,corn,"9,560"
+OH,DEFI_R,8,1997,controlled drainage with subirrigation,corn,"10,351"
+OH,DEFI_R,9,1997,controlled drainage with subirrigation,corn,"9,560"
+OH,DEFI_R,11,1997,free drainage,corn,"8,361"
+OH,DEFI_R,6,1999,controlled drainage with subirrigation,corn,9164
+OH,DEFI_R,7,1999,controlled drainage with subirrigation,corn,8286
+OH,DEFI_R,8,1999,controlled drainage with subirrigation,soy,"2,152"
+OH,DEFI_R,9,1999,controlled drainage with subirrigation,soy,"2,576"
+OH,DEFI_R,11,1999,free drainage,soy,"1,493"
+OH,DEFI_R,11,1999,free drainage,corn,7721
+OH,DEFI_R,6,2000,controlled drainage with subirrigation,soy,504
+OH,DEFI_R,7,2000,controlled drainage with subirrigation,soy,551
+OH,DEFI_R,8,2000,controlled drainage with subirrigation,corn,4745
+OH,DEFI_R,9,2000,controlled drainage with subirrigation,corn,4350
+OH,DEFI_R,11,2000,free drainage,corn,4507
+OH,DEFI_R,11,2000,free drainage,soy,679
+OH,DEFI_R,6,2001,controlled drainage with subirrigation,corn,"5,197"
+OH,DEFI_R,7,2001,controlled drainage with subirrigation,corn,"4,394"
+OH,DEFI_R,8,2001,controlled drainage with subirrigation,soy,"1,278"
+OH,DEFI_R,9,2001,controlled drainage with subirrigation,soy,841
+OH,DEFI_R,11,2001,free drainage,soy,726
+OH,DEFI_R,11,2001,free drainage,corn,"5,172"
+OH,DEFI_R,6,2002,controlled drainage with subirrigation,soy,"1,520"
+OH,DEFI_R,7,2002,controlled drainage with subirrigation,soy,"1,641"
+OH,DEFI_R,8,2002,controlled drainage with subirrigation,corn,"6,748"
+OH,DEFI_R,9,2002,controlled drainage with subirrigation,corn,"6,013"
+OH,DEFI_R,11,2002,free drainage,corn,"6,767"
+OH,DEFI_R,11,2002,free drainage,soy,"1,412"
+OH,DEFI_R,6,2003,controlled drainage with subirrigation,corn,"7,219"
+OH,DEFI_R,7,2003,controlled drainage with subirrigation,corn,"6,484"
+OH,DEFI_R,8,2003,controlled drainage with subirrigation,soy,"2,374"
+OH,DEFI_R,9,2003,controlled drainage with subirrigation,soy,"2,482"
+OH,DEFI_R,11,2003,free drainage,soy,"2,226"
+OH,DEFI_R,11,2003,free drainage,corn,"7,752"
+OH,DEFI_R,6,2004,controlled drainage with subirrigation,soy,"2,239"
+OH,DEFI_R,7,2004,controlled drainage with subirrigation,soy,"1,775"
+OH,DEFI_R,8,2004,controlled drainage with subirrigation,corn,"6,340"
+OH,DEFI_R,9,2004,controlled drainage with subirrigation,corn,"7,062"
+OH,DEFI_R,11,2004,free drainage,corn,"4,733"
+OH,DEFI_R,11,2004,free drainage,soy,"1,991"
+OH,DEFI_R,6,2005,controlled drainage with subirrigation,corn,"5,787"
+OH,DEFI_R,7,2005,controlled drainage with subirrigation,corn,"5,787"
+OH,DEFI_R,8,2005,controlled drainage with subirrigation,soy,"1,459"
+OH,DEFI_R,9,2005,controlled drainage with subirrigation,soy,"1,601"
+OH,DEFI_R,11,2005,free drainage,soy,"2,313"
+OH,DEFI_R,11,2005,free drainage,corn,"6,227"
+OH,DEFI_R,6,2006,controlled drainage with subirrigation,corn,"1,525"
+OH,DEFI_R,7,2006,controlled drainage with subirrigation,corn,"2,348"
+OH,DEFI_R,8,2006,controlled drainage with subirrigation,corn,"5,467"
+OH,DEFI_R,9,2006,controlled drainage with subirrigation,corn,"4,771"
+OH,DEFI_R,11,2006,free drainage,corn,"4,984"
+OH,DEFI_R,6,2007,controlled drainage with subirrigation,soy,"3,092"
+OH,DEFI_R,7,2007,controlled drainage with subirrigation,soy,"2,883"
+OH,DEFI_R,8,2007,controlled drainage with subirrigation,soy,"2,511"
+OH,DEFI_R,9,2007,controlled drainage with subirrigation,soy,"1,840"
+OH,DEFI_R,6,2008,controlled drainage with subirrigation,soy,"1,866"
+OH,DEFI_R,7,2008,controlled drainage with subirrigation,soy,"1,831"
+OH,DEFI_R,8,2008,controlled drainage with subirrigation,soy,"2,195"
+OH,DEFI_R,9,2008,controlled drainage with subirrigation,soy,"2,133"
+ND,FAIRM,CD/SI,2015,controlled drainage with subirrigation,soy,3745.8
+ND,FAIRM,UD,2015,no drainage,corn,11035
+ND,FAIRM,CD/SI,2016,controlled drainage with subirrigation,corn,9672.9
+ND,FAIRM,UD,2016,no drainage,corn,10382.2
+OH,FULTON,D,1996,free drainage,corn,6839
+OH,FULTON,S,1996,controlled drainage with subirrigation,corn,11711
+OH,FULTON,D,1996,free drainage,soy,3102
+OH,FULTON,S,1996,controlled drainage with subirrigation,soy,4552
+OH,FULTON,D,1997,free drainage,corn,10705
+OH,FULTON,S,1997,controlled drainage with subirrigation,corn,11962
+OH,FULTON,D,1997,free drainage,soy,4073
+OH,FULTON,S,1997,controlled drainage with subirrigation,soy,4248
+OH,FULTON,D,1998,free drainage,corn,11711
+OH,FULTON,S,1998,controlled drainage with subirrigation,corn,13232
+OH,FULTON,D,1998,free drainage,soy,4248
+OH,FULTON,S,1998,controlled drainage with subirrigation,soy,4464
+OH,FULTON,D,1999,free drainage,corn,8536
+OH,FULTON,S,1999,controlled drainage with subirrigation,corn,12025
+OH,FULTON,D,1999,free drainage,soy,3675
+OH,FULTON,S,1999,controlled drainage with subirrigation,soy,4639
+OH,FULTON,D,2000,free drainage,corn,10328
+OH,FULTON,S,2000,controlled drainage with subirrigation,corn,11409
+OH,FULTON,D,2000,free drainage,soy,3392
+OH,FULTON,S,2000,controlled drainage with subirrigation,soy,3695
+OH,FULTON,D,2001,free drainage,corn,4570
+OH,FULTON,S,2001,controlled drainage with subirrigation,corn,12063
+OH,FULTON,D,2001,free drainage,soy,3250
+OH,FULTON,S,2001,controlled drainage with subirrigation,soy,4127
+OH,FULTON,D,2002,free drainage,corn,5393
+OH,FULTON,S,2002,controlled drainage with subirrigation,corn,12214
+OH,FULTON,D,2002,free drainage,soy,2724
+OH,FULTON,S,2002,controlled drainage with subirrigation,soy,4005
+OH,FULTON,D,2003,free drainage,corn,14552
+OH,FULTON,S,2003,controlled drainage with subirrigation,corn,14615
+OH,FULTON,D,2003,free drainage,soy,2630
+OH,FULTON,S,2003,controlled drainage with subirrigation,soy,2562
+OH,FULTON,D,2004,free drainage,corn,8172
+OH,FULTON,S,2004,controlled drainage with subirrigation,corn,12698
+OH,FULTON,D,2004,free drainage,soy,4046
+OH,FULTON,S,2004,controlled drainage with subirrigation,soy,4349
+OH,FULTON,D,2005,free drainage,corn,9171
+OH,FULTON,S,2005,controlled drainage with subirrigation,corn,11610
+OH,FULTON,D,2006,free drainage,corn,10309
+OH,FULTON,S,2006,controlled drainage with subirrigation,corn,11566
+OH,FULTON,D,2007,free drainage,soy,3951
+OH,FULTON,S,2007,controlled drainage with subirrigation,soy,4167
+OH,FULTON,D,2008,free drainage,corn,7480
+OH,FULTON,S,2008,controlled drainage with subirrigation,corn,10812
+OH,HARDIN,North,2007,free drainage,corn,6779.2
+OH,HARDIN,South,2007,controlled drainage,corn,6779.2
+OH,HARDIN,North,2008,free drainage,soy,2181.6
+OH,HARDIN,South,2008,controlled drainage,soy,2181.6
+OH,HARDIN,North,2009,free drainage,corn,9101.7
+OH,HARDIN,South,2009,controlled drainage,corn,9101.7
+OH,HARDIN,North,2010,free drainage,soy,3718.9
+OH,HARDIN,South,2010,controlled drainage,soy,3718.9
+OH,HARDIN,North,2011,free drainage,corn,11800.8
+OH,HARDIN,South,2011,controlled drainage,corn,11800.8
+OH,HARDIN,North,2012,free drainage,soy,4716.2
+OH,HARDIN,South,2012,controlled drainage,soy,4716.2
+OH,HARDIN_NW,North,2008,free drainage,corn,6610
+OH,HARDIN_NW,South,2008,controlled drainage,corn,7550
+OH,HARDIN_NW,North,2009,free drainage,soy,3700
+OH,HARDIN_NW,South,2009,controlled drainage,soy,3860
+OH,HARDIN_NW,North,2010,free drainage,corn,12170
+OH,HARDIN_NW,South,2010,controlled drainage,corn,12840
+OH,HARDIN_NW,North,2011,free drainage,soy,4360
+OH,HARDIN_NW,South,2011,controlled drainage,soy,4450
+MO,MUDS1,101,2002,controlled drainage with subirrigation,soy,2683
+MO,MUDS1,102,2002,controlled drainage with subirrigation,corn,7266
+MO,MUDS1,103,2002,controlled drainage with subirrigation,soy,2912
+MO,MUDS1,104,2002,controlled drainage with subirrigation,corn,6961
+MO,MUDS1,107,2002,no drainage,soy,2441
+MO,MUDS1,108,2002,no drainage,corn,4064
+MO,MUDS1,111,2002,no drainage,soy,2520
+MO,MUDS1,112,2002,no drainage,corn,4366
+MO,MUDS1,113,2002,free drainage,soy,2943
+MO,MUDS1,114,2002,free drainage,corn,4802
+MO,MUDS1,115,2002,free drainage,soy,2895
+MO,MUDS1,116,2002,free drainage,corn,4388
+MO,MUDS1,203,2002,controlled drainage with subirrigation,corn,NA
+MO,MUDS1,204,2002,controlled drainage with subirrigation,soy,3043
+MO,MUDS1,205,2002,free drainage,soy,2781
+MO,MUDS1,206,2002,free drainage,corn,4565
+MO,MUDS1,207,2002,free drainage,corn,4406
+MO,MUDS1,208,2002,free drainage,soy,3020
+MO,MUDS1,209,2002,no drainage,soy,2263
+MO,MUDS1,210,2002,no drainage,corn,NA
+MO,MUDS1,211,2002,controlled drainage with subirrigation,soy,2796
+MO,MUDS1,212,2002,controlled drainage with subirrigation,corn,NA
+MO,MUDS1,215,2002,no drainage,corn,3124
+MO,MUDS1,216,2002,no drainage,soy,2326
+MO,MUDS1,301,2002,no drainage,soy,2330
+MO,MUDS1,302,2002,no drainage,corn,3423
+MO,MUDS1,303,2002,controlled drainage with subirrigation,soy,3245
+MO,MUDS1,304,2002,controlled drainage with subirrigation,corn,7981
+MO,MUDS1,307,2002,controlled drainage with subirrigation,corn,7049
+MO,MUDS1,308,2002,controlled drainage with subirrigation,soy,3436
+MO,MUDS1,309,2002,no drainage,soy,2456
+MO,MUDS1,310,2002,no drainage,corn,3693
+MO,MUDS1,311,2002,free drainage,soy,3023
+MO,MUDS1,312,2002,free drainage,corn,4708
+MO,MUDS1,315,2002,free drainage,corn,5273
+MO,MUDS1,316,2002,free drainage,soy,3385
+MO,MUDS1,403,2002,free drainage,corn,4760
+MO,MUDS1,404,2002,free drainage,soy,2984
+MO,MUDS1,405,2002,no drainage,corn,4089
+MO,MUDS1,406,2002,no drainage,soy,2550
+MO,MUDS1,407,2002,free drainage,soy,3312
+MO,MUDS1,408,2002,free drainage,corn,6155
+MO,MUDS1,409,2002,controlled drainage with subirrigation,corn,7288
+MO,MUDS1,410,2002,controlled drainage with subirrigation,soy,3033
+MO,MUDS1,411,2002,controlled drainage with subirrigation,corn,5632
+MO,MUDS1,412,2002,controlled drainage with subirrigation,soy,2907
+MO,MUDS1,415,2002,no drainage,corn,3981
+MO,MUDS1,416,2002,no drainage,soy,2517
+MO,MUDS1,101,2003,controlled drainage with subirrigation,corn,8367
+MO,MUDS1,102,2003,controlled drainage with subirrigation,soy,2999
+MO,MUDS1,103,2003,controlled drainage with subirrigation,corn,7670
+MO,MUDS1,104,2003,controlled drainage with subirrigation,soy,2986
+MO,MUDS1,107,2003,no drainage,corn,7193
+MO,MUDS1,108,2003,no drainage,soy,2717
+MO,MUDS1,111,2003,no drainage,corn,6779
+MO,MUDS1,112,2003,no drainage,soy,2643
+MO,MUDS1,113,2003,free drainage,corn,7143
+MO,MUDS1,114,2003,free drainage,soy,3174
+MO,MUDS1,115,2003,free drainage,corn,8417
+MO,MUDS1,116,2003,free drainage,soy,3040
+MO,MUDS1,203,2003,controlled drainage with subirrigation,soy,3228
+MO,MUDS1,204,2003,controlled drainage with subirrigation,corn,7746
+MO,MUDS1,205,2003,free drainage,corn,7357
+MO,MUDS1,206,2003,free drainage,soy,3201
+MO,MUDS1,207,2003,free drainage,soy,3215
+MO,MUDS1,208,2003,free drainage,corn,7457
+MO,MUDS1,209,2003,no drainage,corn,4024
+MO,MUDS1,210,2003,no drainage,soy,2656
+MO,MUDS1,211,2003,controlled drainage with subirrigation,corn,8694
+MO,MUDS1,212,2003,controlled drainage with subirrigation,soy,3188
+MO,MUDS1,215,2003,no drainage,soy,2912
+MO,MUDS1,216,2003,no drainage,corn,5480
+MO,MUDS1,301,2003,no drainage,corn,6986
+MO,MUDS1,302,2003,no drainage,soy,2791
+MO,MUDS1,303,2003,controlled drainage with subirrigation,corn,8267
+MO,MUDS1,304,2003,controlled drainage with subirrigation,soy,3080
+MO,MUDS1,307,2003,controlled drainage with subirrigation,soy,3524
+MO,MUDS1,308,2003,controlled drainage with subirrigation,corn,11085
+MO,MUDS1,309,2003,no drainage,corn,6949
+MO,MUDS1,310,2003,no drainage,soy,2784
+MO,MUDS1,311,2003,free drainage,corn,7614
+MO,MUDS1,312,2003,free drainage,soy,3141
+MO,MUDS1,315,2003,free drainage,soy,3410
+MO,MUDS1,316,2003,free drainage,corn,11343
+MO,MUDS1,403,2003,free drainage,soy,3147
+MO,MUDS1,404,2003,free drainage,corn,8148
+MO,MUDS1,405,2003,no drainage,soy,2737
+MO,MUDS1,406,2003,no drainage,corn,7168
+MO,MUDS1,407,2003,free drainage,corn,9572
+MO,MUDS1,408,2003,free drainage,soy,3638
+MO,MUDS1,409,2003,controlled drainage with subirrigation,soy,3161
+MO,MUDS1,410,2003,controlled drainage with subirrigation,corn,7407
+MO,MUDS1,411,2003,controlled drainage with subirrigation,soy,3006
+MO,MUDS1,412,2003,controlled drainage with subirrigation,corn,7558
+MO,MUDS1,415,2003,no drainage,soy,2919
+MO,MUDS1,416,2003,no drainage,corn,7783
+MO,MUDS1,101,2004,controlled drainage with subirrigation,soy,4950
+MO,MUDS1,102,2004,controlled drainage with subirrigation,corn,8772
+MO,MUDS1,103,2004,controlled drainage with subirrigation,soy,4472
+MO,MUDS1,104,2004,controlled drainage with subirrigation,corn,3178
+MO,MUDS1,107,2004,no drainage,soy,3201
+MO,MUDS1,108,2004,no drainage,corn,5980
+MO,MUDS1,111,2004,no drainage,soy,3705
+MO,MUDS1,112,2004,no drainage,corn,4149
+MO,MUDS1,113,2004,free drainage,soy,4837
+MO,MUDS1,114,2004,free drainage,corn,6924
+MO,MUDS1,115,2004,free drainage,soy,4755
+MO,MUDS1,116,2004,free drainage,corn,6814
+MO,MUDS1,203,2004,controlled drainage with subirrigation,corn,7536
+MO,MUDS1,204,2004,controlled drainage with subirrigation,soy,4778
+MO,MUDS1,205,2004,free drainage,soy,4886
+MO,MUDS1,206,2004,free drainage,corn,7237
+MO,MUDS1,207,2004,free drainage,corn,7721
+MO,MUDS1,208,2004,free drainage,soy,4741
+MO,MUDS1,209,2004,no drainage,soy,3948
+MO,MUDS1,210,2004,no drainage,corn,5756
+MO,MUDS1,211,2004,controlled drainage with subirrigation,soy,4880
+MO,MUDS1,212,2004,controlled drainage with subirrigation,corn,5009
+MO,MUDS1,215,2004,no drainage,corn,6340
+MO,MUDS1,216,2004,no drainage,soy,2979
+MO,MUDS1,301,2004,no drainage,soy,3685
+MO,MUDS1,302,2004,no drainage,corn,6811
+MO,MUDS1,303,2004,controlled drainage with subirrigation,soy,4929
+MO,MUDS1,304,2004,controlled drainage with subirrigation,corn,8170
+MO,MUDS1,307,2004,controlled drainage with subirrigation,corn,3957
+MO,MUDS1,308,2004,controlled drainage with subirrigation,soy,4400
+MO,MUDS1,309,2004,no drainage,soy,3423
+MO,MUDS1,310,2004,no drainage,corn,5913
+MO,MUDS1,311,2004,free drainage,soy,4623
+MO,MUDS1,312,2004,free drainage,corn,8778
+MO,MUDS1,315,2004,free drainage,corn,6668
+MO,MUDS1,316,2004,free drainage,soy,4891
+MO,MUDS1,403,2004,free drainage,corn,7476
+MO,MUDS1,404,2004,free drainage,soy,4931
+MO,MUDS1,405,2004,no drainage,corn,5333
+MO,MUDS1,406,2004,no drainage,soy,3968
+MO,MUDS1,407,2004,free drainage,soy,4869
+MO,MUDS1,408,2004,free drainage,corn,9657
+MO,MUDS1,409,2004,controlled drainage with subirrigation,corn,4319
+MO,MUDS1,410,2004,controlled drainage with subirrigation,soy,4771
+MO,MUDS1,411,2004,controlled drainage with subirrigation,corn,3726
+MO,MUDS1,412,2004,controlled drainage with subirrigation,soy,4701
+MO,MUDS1,415,2004,no drainage,corn,4940
+MO,MUDS1,416,2004,no drainage,soy,2609
+MO,MUDS1,101,2004,controlled drainage with subirrigation, ,NA
+MO,MUDS1,102,2004,controlled drainage with subirrigation,corn,13430
+MO,MUDS1,103,2004,controlled drainage with subirrigation, ,NA
+MO,MUDS1,104,2004,controlled drainage with subirrigation,corn,13157
+MO,MUDS1,107,2004,no drainage, ,NA
+MO,MUDS1,108,2004,no drainage,corn,10092
+MO,MUDS1,111,2004,no drainage, ,NA
+MO,MUDS1,112,2004,no drainage,corn,12027
+MO,MUDS1,113,2004,free drainage, ,NA
+MO,MUDS1,114,2004,free drainage,corn,12686
+MO,MUDS1,115,2004,free drainage, ,NA
+MO,MUDS1,116,2004,free drainage,corn,13044
+MO,MUDS1,203,2004,controlled drainage with subirrigation,corn,13979
+MO,MUDS1,204,2004,controlled drainage with subirrigation, ,NA
+MO,MUDS1,205,2004,free drainage, ,NA
+MO,MUDS1,206,2004,free drainage,corn,13464
+MO,MUDS1,207,2004,free drainage,corn,13209
+MO,MUDS1,208,2004,free drainage, ,NA
+MO,MUDS1,209,2004,no drainage, ,NA
+MO,MUDS1,210,2004,no drainage,corn,12228
+MO,MUDS1,211,2004,controlled drainage with subirrigation, ,NA
+MO,MUDS1,212,2004,controlled drainage with subirrigation,corn,13477
+MO,MUDS1,215,2004,no drainage,corn,11049
+MO,MUDS1,216,2004,no drainage, ,NA
+MO,MUDS1,301,2004,no drainage, ,NA
+MO,MUDS1,302,2004,no drainage,corn,12017
+MO,MUDS1,303,2004,controlled drainage with subirrigation, ,NA
+MO,MUDS1,304,2004,controlled drainage with subirrigation,corn,13963
+MO,MUDS1,307,2004,controlled drainage with subirrigation,corn,11554
+MO,MUDS1,308,2004,controlled drainage with subirrigation, ,NA
+MO,MUDS1,309,2004,no drainage, ,NA
+MO,MUDS1,310,2004,no drainage,corn,12441
+MO,MUDS1,311,2004,free drainage, ,NA
+MO,MUDS1,312,2004,free drainage,corn,12620
+MO,MUDS1,315,2004,free drainage,corn,14042
+MO,MUDS1,316,2004,free drainage, ,NA
+MO,MUDS1,403,2004,free drainage,corn,13912
+MO,MUDS1,404,2004,free drainage, ,NA
+MO,MUDS1,405,2004,no drainage,corn,12356
+MO,MUDS1,406,2004,no drainage, ,NA
+MO,MUDS1,407,2004,free drainage, ,NA
+MO,MUDS1,408,2004,free drainage,corn,13797
+MO,MUDS1,409,2004,controlled drainage with subirrigation,corn,13009
+MO,MUDS1,410,2004,controlled drainage with subirrigation, ,NA
+MO,MUDS1,411,2004,controlled drainage with subirrigation,corn,13328
+MO,MUDS1,412,2004,controlled drainage with subirrigation, ,NA
+MO,MUDS1,415,2004,no drainage,corn,12705
+MO,MUDS1,416,2004,no drainage, ,NA
+MO,MUDS1,101,2004,controlled drainage with subirrigation, ,NA
+MO,MUDS1,102,2004,controlled drainage with subirrigation,corn,13364
+MO,MUDS1,103,2004,controlled drainage with subirrigation, ,NA
+MO,MUDS1,104,2004,controlled drainage with subirrigation,corn,11882
+MO,MUDS1,107,2004,no drainage, ,NA
+MO,MUDS1,108,2004,no drainage,corn,13807
+MO,MUDS1,111,2004,no drainage, ,NA
+MO,MUDS1,112,2004,no drainage,corn,12931
+MO,MUDS1,113,2004,free drainage, ,NA
+MO,MUDS1,114,2004,free drainage,corn,13100
+MO,MUDS1,115,2004,free drainage, ,NA
+MO,MUDS1,116,2004,free drainage,corn,10517
+MO,MUDS1,203,2004,controlled drainage with subirrigation,corn,12096
+MO,MUDS1,204,2004,controlled drainage with subirrigation, ,NA
+MO,MUDS1,205,2004,free drainage, ,NA
+MO,MUDS1,206,2004,free drainage,corn,12912
+MO,MUDS1,207,2004,free drainage,corn,13835
+MO,MUDS1,208,2004,free drainage, ,NA
+MO,MUDS1,209,2004,no drainage, ,NA
+MO,MUDS1,210,2004,no drainage,corn,13131
+MO,MUDS1,211,2004,controlled drainage with subirrigation, ,NA
+MO,MUDS1,212,2004,controlled drainage with subirrigation,corn,11562
+MO,MUDS1,215,2004,no drainage,corn,5703
+MO,MUDS1,216,2004,no drainage, ,NA
+MO,MUDS1,301,2004,no drainage, ,NA
+MO,MUDS1,302,2004,no drainage,corn,11007
+MO,MUDS1,303,2004,controlled drainage with subirrigation, ,NA
+MO,MUDS1,304,2004,controlled drainage with subirrigation,corn,13539
+MO,MUDS1,307,2004,controlled drainage with subirrigation,corn,12592
+MO,MUDS1,308,2004,controlled drainage with subirrigation, ,NA
+MO,MUDS1,309,2004,no drainage, ,NA
+MO,MUDS1,310,2004,no drainage,corn,11751
+MO,MUDS1,311,2004,free drainage, ,NA
+MO,MUDS1,312,2004,free drainage,corn,13813
+MO,MUDS1,315,2004,free drainage,corn,11629
+MO,MUDS1,316,2004,free drainage, ,NA
+MO,MUDS1,403,2004,free drainage,corn,13502
+MO,MUDS1,404,2004,free drainage, ,NA
+MO,MUDS1,405,2004,no drainage,corn,11703
+MO,MUDS1,406,2004,no drainage, ,NA
+MO,MUDS1,407,2004,free drainage, ,NA
+MO,MUDS1,408,2004,free drainage,corn,14873
+MO,MUDS1,409,2004,controlled drainage with subirrigation,corn,10687
+MO,MUDS1,410,2004,controlled drainage with subirrigation, ,NA
+MO,MUDS1,411,2004,controlled drainage with subirrigation,corn,12682
+MO,MUDS1,412,2004,controlled drainage with subirrigation, ,NA
+MO,MUDS1,415,2004,no drainage,corn,11638
+MO,MUDS1,416,2004,no drainage, ,NA
+MO,MUDS1,101,2004,controlled drainage with subirrigation, ,NA
+MO,MUDS1,102,2004,controlled drainage with subirrigation,corn,12959
+MO,MUDS1,103,2004,controlled drainage with subirrigation, ,NA
+MO,MUDS1,104,2004,controlled drainage with subirrigation,corn,13950
+MO,MUDS1,107,2004,no drainage, ,NA
+MO,MUDS1,108,2004,no drainage,corn,15118
+MO,MUDS1,111,2004,no drainage, ,NA
+MO,MUDS1,112,2004,no drainage,corn,13521
+MO,MUDS1,113,2004,free drainage, ,NA
+MO,MUDS1,114,2004,free drainage,corn,12533
+MO,MUDS1,115,2004,free drainage, ,NA
+MO,MUDS1,116,2004,free drainage,corn,14638
+MO,MUDS1,203,2004,controlled drainage with subirrigation,corn,14685
+MO,MUDS1,204,2004,controlled drainage with subirrigation, ,NA
+MO,MUDS1,205,2004,free drainage, ,NA
+MO,MUDS1,206,2004,free drainage,corn,12567
+MO,MUDS1,207,2004,free drainage,corn,12251
+MO,MUDS1,208,2004,free drainage, ,NA
+MO,MUDS1,209,2004,no drainage, ,NA
+MO,MUDS1,210,2004,no drainage,corn,11518
+MO,MUDS1,211,2004,controlled drainage with subirrigation, ,NA
+MO,MUDS1,212,2004,controlled drainage with subirrigation,corn,13441
+MO,MUDS1,215,2004,no drainage,corn,10335
+MO,MUDS1,216,2004,no drainage, ,NA
+MO,MUDS1,301,2004,no drainage, ,NA
+MO,MUDS1,302,2004,no drainage,corn,11770
+MO,MUDS1,303,2004,controlled drainage with subirrigation, ,NA
+MO,MUDS1,304,2004,controlled drainage with subirrigation,corn,12975
+MO,MUDS1,307,2004,controlled drainage with subirrigation,corn,13397
+MO,MUDS1,308,2004,controlled drainage with subirrigation, ,NA
+MO,MUDS1,309,2004,no drainage, ,NA
+MO,MUDS1,310,2004,no drainage,corn,12717
+MO,MUDS1,311,2004,free drainage, ,NA
+MO,MUDS1,312,2004,free drainage,corn,13612
+MO,MUDS1,315,2004,free drainage,corn,14351
+MO,MUDS1,316,2004,free drainage, ,NA
+MO,MUDS1,403,2004,free drainage,corn,13439
+MO,MUDS1,404,2004,free drainage, ,NA
+MO,MUDS1,405,2004,no drainage,corn,13191
+MO,MUDS1,406,2004,no drainage, ,NA
+MO,MUDS1,407,2004,free drainage, ,NA
+MO,MUDS1,408,2004,free drainage,corn,14657
+MO,MUDS1,409,2004,controlled drainage with subirrigation,corn,14230
+MO,MUDS1,410,2004,controlled drainage with subirrigation, ,NA
+MO,MUDS1,411,2004,controlled drainage with subirrigation,corn,12613
+MO,MUDS1,412,2004,controlled drainage with subirrigation, ,NA
+MO,MUDS1,415,2004,no drainage,corn,9754
+MO,MUDS1,416,2004,no drainage, ,NA
+MO,MUDS1,101,2004,controlled drainage with subirrigation, ,NA
+MO,MUDS1,102,2004,controlled drainage with subirrigation,corn,12667
+MO,MUDS1,103,2004,controlled drainage with subirrigation, ,NA
+MO,MUDS1,104,2004,controlled drainage with subirrigation,corn,11171
+MO,MUDS1,107,2004,no drainage, ,NA
+MO,MUDS1,108,2004,no drainage,corn,10885
+MO,MUDS1,111,2004,no drainage, ,NA
+MO,MUDS1,112,2004,no drainage,corn,13433
+MO,MUDS1,113,2004,free drainage, ,NA
+MO,MUDS1,114,2004,free drainage,corn,12364
+MO,MUDS1,115,2004,free drainage, ,NA
+MO,MUDS1,116,2004,free drainage,corn,14409
+MO,MUDS1,203,2004,controlled drainage with subirrigation,corn,13320
+MO,MUDS1,204,2004,controlled drainage with subirrigation, ,NA
+MO,MUDS1,205,2004,free drainage, ,NA
+MO,MUDS1,206,2004,free drainage,corn,12435
+MO,MUDS1,207,2004,free drainage,corn,11769
+MO,MUDS1,208,2004,free drainage, ,NA
+MO,MUDS1,209,2004,no drainage, ,NA
+MO,MUDS1,210,2004,no drainage,corn,12761
+MO,MUDS1,211,2004,controlled drainage with subirrigation, ,NA
+MO,MUDS1,212,2004,controlled drainage with subirrigation,corn,13274
+MO,MUDS1,215,2004,no drainage,corn,11058
+MO,MUDS1,216,2004,no drainage, ,NA
+MO,MUDS1,301,2004,no drainage, ,NA
+MO,MUDS1,302,2004,no drainage,corn,10493
+MO,MUDS1,303,2004,controlled drainage with subirrigation, ,NA
+MO,MUDS1,304,2004,controlled drainage with subirrigation,corn,13492
+MO,MUDS1,307,2004,controlled drainage with subirrigation,corn,12910
+MO,MUDS1,308,2004,controlled drainage with subirrigation, ,NA
+MO,MUDS1,309,2004,no drainage, ,NA
+MO,MUDS1,310,2004,no drainage,corn,11681
+MO,MUDS1,311,2004,free drainage, ,NA
+MO,MUDS1,312,2004,free drainage,corn,12702
+MO,MUDS1,315,2004,free drainage,corn,12799
+MO,MUDS1,316,2004,free drainage, ,NA
+MO,MUDS1,403,2004,free drainage,corn,12627
+MO,MUDS1,404,2004,free drainage, ,NA
+MO,MUDS1,405,2004,no drainage,corn,13145
+MO,MUDS1,406,2004,no drainage, ,NA
+MO,MUDS1,407,2004,free drainage, ,NA
+MO,MUDS1,408,2004,free drainage,corn,14381
+MO,MUDS1,409,2004,controlled drainage with subirrigation,corn,13320
+MO,MUDS1,410,2004,controlled drainage with subirrigation, ,NA
+MO,MUDS1,411,2004,controlled drainage with subirrigation,corn,12749
+MO,MUDS1,412,2004,controlled drainage with subirrigation, ,NA
+MO,MUDS1,415,2004,no drainage,corn,11594
+MO,MUDS1,416,2004,no drainage, ,NA
+MO,MUDS1,101,2005,controlled drainage with subirrigation,corn,5423
+MO,MUDS1,102,2005,controlled drainage with subirrigation,soy,3331
+MO,MUDS1,103,2005,controlled drainage with subirrigation,corn,3364
+MO,MUDS1,104,2005,controlled drainage with subirrigation,soy,3252
+MO,MUDS1,107,2005,no drainage,corn,1018
+MO,MUDS1,108,2005,no drainage,soy,2147
+MO,MUDS1,111,2005,no drainage,corn,6535
+MO,MUDS1,112,2005,no drainage,soy,2494
+MO,MUDS1,113,2005,free drainage,corn,3823
+MO,MUDS1,114,2005,free drainage,soy,2549
+MO,MUDS1,115,2005,free drainage,corn,4394
+MO,MUDS1,116,2005,free drainage,soy,2775
+MO,MUDS1,203,2005,controlled drainage with subirrigation,soy,3524
+MO,MUDS1,204,2005,controlled drainage with subirrigation, ,NA
+MO,MUDS1,205,2005,free drainage,corn,3157
+MO,MUDS1,206,2005,free drainage,soy,2656
+MO,MUDS1,207,2005,free drainage,soy,2659
+MO,MUDS1,208,2005,free drainage,corn,4739
+MO,MUDS1,209,2005,no drainage,corn,8557
+MO,MUDS1,210,2005,no drainage,soy,2385
+MO,MUDS1,211,2005,controlled drainage with subirrigation,corn,3408
+MO,MUDS1,212,2005,controlled drainage with subirrigation,soy,3596
+MO,MUDS1,215,2005,no drainage,soy,2940
+MO,MUDS1,216,2005,no drainage,corn,3592
+MO,MUDS1,301,2005,no drainage,corn,3441
+MO,MUDS1,302,2005,no drainage,soy,2503
+MO,MUDS1,303,2005,controlled drainage with subirrigation,corn,4425
+MO,MUDS1,304,2005,controlled drainage with subirrigation,soy,3701
+MO,MUDS1,307,2005,controlled drainage with subirrigation,soy,3749
+MO,MUDS1,308,2005,controlled drainage with subirrigation,corn,6610
+MO,MUDS1,309,2005,no drainage,corn,1393
+MO,MUDS1,310,2005,no drainage,soy,2792
+MO,MUDS1,311,2005,free drainage,corn,4720
+MO,MUDS1,312,2005,free drainage,soy,2912
+MO,MUDS1,315,2005,free drainage,soy,3090
+MO,MUDS1,316,2005,free drainage,corn,6308
+MO,MUDS1,403,2005,free drainage,soy,2631
+MO,MUDS1,404,2005,free drainage,corn,3647
+MO,MUDS1,405,2005,no drainage,soy,2732
+MO,MUDS1,406,2005,no drainage,corn,3803
+MO,MUDS1,407,2005,free drainage,corn,4275
+MO,MUDS1,408,2005,free drainage,soy,3860
+MO,MUDS1,409,2005,controlled drainage with subirrigation,soy,3906
+MO,MUDS1,410,2005,controlled drainage with subirrigation,corn,3233
+MO,MUDS1,411,2005,controlled drainage with subirrigation,soy,3160
+MO,MUDS1,412,2005,controlled drainage with subirrigation,corn,1406
+MO,MUDS1,415,2005,no drainage,soy,2580
+MO,MUDS1,416,2005,no drainage,corn,6010
+MO,MUDS1,101,2005,controlled drainage with subirrigation,corn,7708
+MO,MUDS1,102,2005,controlled drainage with subirrigation, ,NA
+MO,MUDS1,103,2005,controlled drainage with subirrigation,corn,5831
+MO,MUDS1,104,2005,controlled drainage with subirrigation, ,NA
+MO,MUDS1,107,2005,no drainage,corn,1768
+MO,MUDS1,108,2005,no drainage, ,NA
+MO,MUDS1,111,2005,no drainage,corn,15059
+MO,MUDS1,112,2005,no drainage, ,NA
+MO,MUDS1,113,2005,free drainage,corn,2699
+MO,MUDS1,114,2005,free drainage, ,NA
+MO,MUDS1,115,2005,free drainage,corn,3980
+MO,MUDS1,116,2005,free drainage, ,NA
+MO,MUDS1,203,2005,controlled drainage with subirrigation, ,NA
+MO,MUDS1,204,2005,controlled drainage with subirrigation, ,NA
+MO,MUDS1,205,2005,free drainage,corn,1732
+MO,MUDS1,206,2005,free drainage, ,NA
+MO,MUDS1,207,2005,free drainage, ,NA
+MO,MUDS1,208,2005,free drainage,corn,2530
+MO,MUDS1,209,2005,no drainage,corn,11652
+MO,MUDS1,210,2005,no drainage, ,NA
+MO,MUDS1,211,2005,controlled drainage with subirrigation,corn,6099
+MO,MUDS1,212,2005,controlled drainage with subirrigation, ,NA
+MO,MUDS1,215,2005,no drainage, ,NA
+MO,MUDS1,216,2005,no drainage,corn,2877
+MO,MUDS1,301,2005,no drainage,corn,13603
+MO,MUDS1,302,2005,no drainage, ,NA
+MO,MUDS1,303,2005,controlled drainage with subirrigation,corn,7740
+MO,MUDS1,304,2005,controlled drainage with subirrigation, ,NA
+MO,MUDS1,307,2005,controlled drainage with subirrigation, ,NA
+MO,MUDS1,308,2005,controlled drainage with subirrigation,corn,11418
+MO,MUDS1,309,2005,no drainage,corn,2169
+MO,MUDS1,310,2005,no drainage, ,NA
+MO,MUDS1,311,2005,free drainage,corn,3820
+MO,MUDS1,312,2005,free drainage, ,NA
+MO,MUDS1,315,2005,free drainage, ,NA
+MO,MUDS1,316,2005,free drainage,corn,8524
+MO,MUDS1,403,2005,free drainage, ,NA
+MO,MUDS1,404,2005,free drainage,corn,4086
+MO,MUDS1,405,2005,no drainage, ,NA
+MO,MUDS1,406,2005,no drainage,corn,3280
+MO,MUDS1,407,2005,free drainage,corn,6949
+MO,MUDS1,408,2005,free drainage, ,NA
+MO,MUDS1,409,2005,controlled drainage with subirrigation, ,NA
+MO,MUDS1,410,2005,controlled drainage with subirrigation,corn,9459
+MO,MUDS1,411,2005,controlled drainage with subirrigation, ,NA
+MO,MUDS1,412,2005,controlled drainage with subirrigation,corn,5969
+MO,MUDS1,415,2005,no drainage, ,NA
+MO,MUDS1,416,2005,no drainage,corn,15786
+MO,MUDS1,101,2005,controlled drainage with subirrigation,corn,7570
+MO,MUDS1,102,2005,controlled drainage with subirrigation, ,NA
+MO,MUDS1,103,2005,controlled drainage with subirrigation,corn,5731
+MO,MUDS1,104,2005,controlled drainage with subirrigation, ,NA
+MO,MUDS1,107,2005,no drainage,corn,1553
+MO,MUDS1,108,2005,no drainage, ,NA
+MO,MUDS1,111,2005,no drainage,corn,16020
+MO,MUDS1,112,2005,no drainage, ,NA
+MO,MUDS1,113,2005,free drainage,corn,2335
+MO,MUDS1,114,2005,free drainage, ,NA
+MO,MUDS1,115,2005,free drainage,corn,3283
+MO,MUDS1,116,2005,free drainage, ,NA
+MO,MUDS1,203,2005,controlled drainage with subirrigation, ,NA
+MO,MUDS1,204,2005,controlled drainage with subirrigation, ,NA
+MO,MUDS1,205,2005,free drainage,corn,3729
+MO,MUDS1,206,2005,free drainage, ,NA
+MO,MUDS1,207,2005,free drainage, ,NA
+MO,MUDS1,208,2005,free drainage,corn,2718
+MO,MUDS1,209,2005,no drainage,corn,14042
+MO,MUDS1,210,2005,no drainage, ,NA
+MO,MUDS1,211,2005,controlled drainage with subirrigation,corn,5787
+MO,MUDS1,212,2005,controlled drainage with subirrigation, ,NA
+MO,MUDS1,215,2005,no drainage, ,NA
+MO,MUDS1,216,2005,no drainage,corn,3306
+MO,MUDS1,301,2005,no drainage,corn,14834
+MO,MUDS1,302,2005,no drainage, ,NA
+MO,MUDS1,303,2005,controlled drainage with subirrigation,corn,7269
+MO,MUDS1,304,2005,controlled drainage with subirrigation, ,NA
+MO,MUDS1,307,2005,controlled drainage with subirrigation, ,NA
+MO,MUDS1,308,2005,controlled drainage with subirrigation,corn,10545
+MO,MUDS1,309,2005,no drainage,corn,2122
+MO,MUDS1,310,2005,no drainage, ,NA
+MO,MUDS1,311,2005,free drainage,corn,4614
+MO,MUDS1,312,2005,free drainage, ,NA
+MO,MUDS1,315,2005,free drainage, ,NA
+MO,MUDS1,316,2005,free drainage,corn,7551
+MO,MUDS1,403,2005,free drainage, ,NA
+MO,MUDS1,404,2005,free drainage,corn,3967
+MO,MUDS1,405,2005,no drainage, ,NA
+MO,MUDS1,406,2005,no drainage,corn,2508
+MO,MUDS1,407,2005,free drainage,corn,7255
+MO,MUDS1,408,2005,free drainage, ,NA
+MO,MUDS1,409,2005,controlled drainage with subirrigation, ,NA
+MO,MUDS1,410,2005,controlled drainage with subirrigation,corn,7043
+MO,MUDS1,411,2005,controlled drainage with subirrigation, ,NA
+MO,MUDS1,412,2005,controlled drainage with subirrigation,corn,6917
+MO,MUDS1,415,2005,no drainage, ,NA
+MO,MUDS1,416,2005,no drainage,corn,15484
+MO,MUDS1,101,2005,controlled drainage with subirrigation,corn,8568
+MO,MUDS1,102,2005,controlled drainage with subirrigation, ,NA
+MO,MUDS1,103,2005,controlled drainage with subirrigation,corn,7049
+MO,MUDS1,104,2005,controlled drainage with subirrigation, ,NA
+MO,MUDS1,107,2005,no drainage,corn,1747
+MO,MUDS1,108,2005,no drainage, ,NA
+MO,MUDS1,111,2005,no drainage,corn,18153
+MO,MUDS1,112,2005,no drainage, ,NA
+MO,MUDS1,113,2005,free drainage,corn,1525
+MO,MUDS1,114,2005,free drainage, ,NA
+MO,MUDS1,115,2005,free drainage,corn,2184
+MO,MUDS1,116,2005,free drainage, ,NA
+MO,MUDS1,203,2005,controlled drainage with subirrigation, ,NA
+MO,MUDS1,204,2005,controlled drainage with subirrigation, ,NA
+MO,MUDS1,205,2005,free drainage,corn,1607
+MO,MUDS1,206,2005,free drainage, ,NA
+MO,MUDS1,207,2005,free drainage, ,NA
+MO,MUDS1,208,2005,free drainage,corn,2548
+MO,MUDS1,209,2005,no drainage,corn,16130
+MO,MUDS1,210,2005,no drainage, ,NA
+MO,MUDS1,211,2005,controlled drainage with subirrigation,corn,7262
+MO,MUDS1,212,2005,controlled drainage with subirrigation, ,NA
+MO,MUDS1,215,2005,no drainage, ,NA
+MO,MUDS1,216,2005,no drainage,corn,1796
+MO,MUDS1,301,2005,no drainage,corn,15906
+MO,MUDS1,302,2005,no drainage, ,NA
+MO,MUDS1,303,2005,controlled drainage with subirrigation,corn,8844
+MO,MUDS1,304,2005,controlled drainage with subirrigation, ,NA
+MO,MUDS1,307,2005,controlled drainage with subirrigation, ,NA
+MO,MUDS1,308,2005,controlled drainage with subirrigation,corn,11681
+MO,MUDS1,309,2005,no drainage,corn,1812
+MO,MUDS1,310,2005,no drainage, ,NA
+MO,MUDS1,311,2005,free drainage,corn,2887
+MO,MUDS1,312,2005,free drainage, ,NA
+MO,MUDS1,315,2005,free drainage, ,NA
+MO,MUDS1,316,2005,free drainage,corn,7470
+MO,MUDS1,403,2005,free drainage, ,NA
+MO,MUDS1,404,2005,free drainage,corn,3258
+MO,MUDS1,405,2005,no drainage, ,NA
+MO,MUDS1,406,2005,no drainage,corn,2343
+MO,MUDS1,407,2005,free drainage,corn,6377
+MO,MUDS1,408,2005,free drainage, ,NA
+MO,MUDS1,409,2005,controlled drainage with subirrigation, ,NA
+MO,MUDS1,410,2005,controlled drainage with subirrigation,corn,9309
+MO,MUDS1,411,2005,controlled drainage with subirrigation, ,NA
+MO,MUDS1,412,2005,controlled drainage with subirrigation,corn,7093
+MO,MUDS1,415,2005,no drainage, ,NA
+MO,MUDS1,416,2005,no drainage,corn,15746
+MO,MUDS1,101,2005,controlled drainage with subirrigation,corn,8618
+MO,MUDS1,102,2005,controlled drainage with subirrigation, ,NA
+MO,MUDS1,103,2005,controlled drainage with subirrigation,corn,5944
+MO,MUDS1,104,2005,controlled drainage with subirrigation, ,NA
+MO,MUDS1,107,2005,no drainage,corn,1413
+MO,MUDS1,108,2005,no drainage, ,NA
+MO,MUDS1,111,2005,no drainage,corn,16337
+MO,MUDS1,112,2005,no drainage, ,NA
+MO,MUDS1,113,2005,free drainage,corn,1902
+MO,MUDS1,114,2005,free drainage, ,NA
+MO,MUDS1,115,2005,free drainage,corn,1933
+MO,MUDS1,116,2005,free drainage, ,NA
+MO,MUDS1,203,2005,controlled drainage with subirrigation, ,NA
+MO,MUDS1,204,2005,controlled drainage with subirrigation, ,NA
+MO,MUDS1,205,2005,free drainage,corn,2071
+MO,MUDS1,206,2005,free drainage, ,NA
+MO,MUDS1,207,2005,free drainage, ,NA
+MO,MUDS1,208,2005,free drainage,corn,1827
+MO,MUDS1,209,2005,no drainage,corn,18901
+MO,MUDS1,210,2005,no drainage, ,NA
+MO,MUDS1,211,2005,controlled drainage with subirrigation,corn,7520
+MO,MUDS1,212,2005,controlled drainage with subirrigation, ,NA
+MO,MUDS1,215,2005,no drainage, ,NA
+MO,MUDS1,216,2005,no drainage,corn,2043
+MO,MUDS1,301,2005,no drainage,corn,15412
+MO,MUDS1,302,2005,no drainage, ,NA
+MO,MUDS1,303,2005,controlled drainage with subirrigation,corn,9999
+MO,MUDS1,304,2005,controlled drainage with subirrigation, ,NA
+MO,MUDS1,307,2005,controlled drainage with subirrigation, ,NA
+MO,MUDS1,308,2005,controlled drainage with subirrigation,corn,11380
+MO,MUDS1,309,2005,no drainage,corn,1065
+MO,MUDS1,310,2005,no drainage, ,NA
+MO,MUDS1,311,2005,free drainage,corn,3264
+MO,MUDS1,312,2005,free drainage, ,NA
+MO,MUDS1,315,2005,free drainage, ,NA
+MO,MUDS1,316,2005,free drainage,corn,7783
+MO,MUDS1,403,2005,free drainage, ,NA
+MO,MUDS1,404,2005,free drainage,corn,3722
+MO,MUDS1,405,2005,no drainage, ,NA
+MO,MUDS1,406,2005,no drainage,corn,2516
+MO,MUDS1,407,2005,free drainage,corn,6685
+MO,MUDS1,408,2005,free drainage, ,NA
+MO,MUDS1,409,2005,controlled drainage with subirrigation, ,NA
+MO,MUDS1,410,2005,controlled drainage with subirrigation,corn,9434
+MO,MUDS1,411,2005,controlled drainage with subirrigation, ,NA
+MO,MUDS1,412,2005,controlled drainage with subirrigation,corn,6754
+MO,MUDS1,415,2005,no drainage, ,NA
+MO,MUDS1,416,2005,no drainage,corn,15889
+MO,MUDS1,101,2006,controlled drainage with subirrigation,soy,4250
+MO,MUDS1,102,2006,controlled drainage with subirrigation,corn,6970
+MO,MUDS1,103,2006,controlled drainage with subirrigation,soy,4423
+MO,MUDS1,104,2006,controlled drainage with subirrigation,corn,6760
+MO,MUDS1,107,2006,no drainage,soy,3939
+MO,MUDS1,108,2006,no drainage,corn,5573
+MO,MUDS1,111,2006,no drainage,soy,4443
+MO,MUDS1,112,2006,no drainage,corn,7191
+MO,MUDS1,113,2006,free drainage,soy,4512
+MO,MUDS1,114,2006,free drainage,corn,5109
+MO,MUDS1,115,2006,free drainage,soy,4193
+MO,MUDS1,116,2006,free drainage,corn,4552
+MO,MUDS1,203,2006,controlled drainage with subirrigation, ,NA
+MO,MUDS1,204,2006,controlled drainage with subirrigation,soy,4371
+MO,MUDS1,205,2006,free drainage,soy,4341
+MO,MUDS1,206,2006,free drainage,corn,5068
+MO,MUDS1,207,2006,free drainage,corn,5648
+MO,MUDS1,208,2006,free drainage,soy,4573
+MO,MUDS1,209,2006,no drainage,soy,4106
+MO,MUDS1,210,2006,no drainage,corn,7318
+MO,MUDS1,211,2006,controlled drainage with subirrigation,soy,4418
+MO,MUDS1,212,2006,controlled drainage with subirrigation,corn,4900
+MO,MUDS1,215,2006,no drainage,corn,6033
+MO,MUDS1,216,2006,no drainage,soy,3819
+MO,MUDS1,301,2006,no drainage,soy,4369
+MO,MUDS1,302,2006,no drainage,corn,5024
+MO,MUDS1,303,2006,controlled drainage with subirrigation,soy,4402
+MO,MUDS1,304,2006,controlled drainage with subirrigation,corn,5510
+MO,MUDS1,307,2006,controlled drainage with subirrigation,corn,5701
+MO,MUDS1,308,2006,controlled drainage with subirrigation,soy,4613
+MO,MUDS1,309,2006,no drainage,soy,4078
+MO,MUDS1,310,2006,no drainage,corn,7104
+MO,MUDS1,311,2006,free drainage,soy,4543
+MO,MUDS1,312,2006,free drainage,corn,5333
+MO,MUDS1,315,2006,free drainage,corn,6584
+MO,MUDS1,316,2006,free drainage,soy,4302
+MO,MUDS1,403,2006,free drainage,corn,4807
+MO,MUDS1,404,2006,free drainage,soy,4486
+MO,MUDS1,405,2006,no drainage,corn,4718
+MO,MUDS1,406,2006,no drainage,soy,4544
+MO,MUDS1,407,2006,free drainage,soy,4560
+MO,MUDS1,408,2006,free drainage,corn,8349
+MO,MUDS1,409,2006,controlled drainage with subirrigation,corn,6797
+MO,MUDS1,410,2006,controlled drainage with subirrigation,soy,4422
+MO,MUDS1,411,2006,controlled drainage with subirrigation,corn,5557
+MO,MUDS1,412,2006,controlled drainage with subirrigation,soy,4324
+MO,MUDS1,415,2006,no drainage,corn,7122
+MO,MUDS1,416,2006,no drainage,soy,4119
+MO,MUDS1,101,2006,controlled drainage with subirrigation, ,NA
+MO,MUDS1,102,2006,controlled drainage with subirrigation,corn,11965
+MO,MUDS1,103,2006,controlled drainage with subirrigation, ,NA
+MO,MUDS1,104,2006,controlled drainage with subirrigation,corn,8283
+MO,MUDS1,107,2006,no drainage, ,NA
+MO,MUDS1,108,2006,no drainage,corn,9015
+MO,MUDS1,111,2006,no drainage, ,NA
+MO,MUDS1,112,2006,no drainage,corn,16094
+MO,MUDS1,113,2006,free drainage, ,NA
+MO,MUDS1,114,2006,free drainage,corn,7839
+MO,MUDS1,115,2006,free drainage, ,NA
+MO,MUDS1,116,2006,free drainage,corn,8602
+MO,MUDS1,203,2006,controlled drainage with subirrigation, ,NA
+MO,MUDS1,204,2006,controlled drainage with subirrigation, ,NA
+MO,MUDS1,205,2006,free drainage, ,NA
+MO,MUDS1,206,2006,free drainage,corn,8584
+MO,MUDS1,207,2006,free drainage,corn,8043
+MO,MUDS1,208,2006,free drainage, ,NA
+MO,MUDS1,209,2006,no drainage, ,NA
+MO,MUDS1,210,2006,no drainage,corn,15009
+MO,MUDS1,211,2006,controlled drainage with subirrigation, ,NA
+MO,MUDS1,212,2006,controlled drainage with subirrigation,corn,10383
+MO,MUDS1,215,2006,no drainage,corn,9053
+MO,MUDS1,216,2006,no drainage, ,NA
+MO,MUDS1,301,2006,no drainage, ,NA
+MO,MUDS1,302,2006,no drainage,corn,7804
+MO,MUDS1,303,2006,controlled drainage with subirrigation, ,NA
+MO,MUDS1,304,2006,controlled drainage with subirrigation,corn,10925
+MO,MUDS1,307,2006,controlled drainage with subirrigation,corn,13176
+MO,MUDS1,308,2006,controlled drainage with subirrigation, ,NA
+MO,MUDS1,309,2006,no drainage, ,NA
+MO,MUDS1,310,2006,no drainage,corn,15845
+MO,MUDS1,311,2006,free drainage, ,NA
+MO,MUDS1,312,2006,free drainage,corn,8080
+MO,MUDS1,315,2006,free drainage,corn,9177
+MO,MUDS1,316,2006,free drainage, ,NA
+MO,MUDS1,403,2006,free drainage,corn,9359
+MO,MUDS1,404,2006,free drainage, ,NA
+MO,MUDS1,405,2006,no drainage,corn,8669
+MO,MUDS1,406,2006,no drainage, ,NA
+MO,MUDS1,407,2006,free drainage, ,NA
+MO,MUDS1,408,2006,free drainage,corn,9005
+MO,MUDS1,409,2006,controlled drainage with subirrigation,corn,11080
+MO,MUDS1,410,2006,controlled drainage with subirrigation, ,NA
+MO,MUDS1,411,2006,controlled drainage with subirrigation,corn,10247
+MO,MUDS1,412,2006,controlled drainage with subirrigation, ,NA
+MO,MUDS1,415,2006,no drainage,corn,13259
+MO,MUDS1,416,2006,no drainage, ,NA
+MO,MUDS1,101,2006,controlled drainage with subirrigation, ,NA
+MO,MUDS1,102,2006,controlled drainage with subirrigation,corn,11648
+MO,MUDS1,103,2006,controlled drainage with subirrigation, ,NA
+MO,MUDS1,104,2006,controlled drainage with subirrigation,corn,10019
+MO,MUDS1,107,2006,no drainage, ,NA
+MO,MUDS1,108,2006,no drainage,corn,5979
+MO,MUDS1,111,2006,no drainage, ,NA
+MO,MUDS1,112,2006,no drainage,corn,14830
+MO,MUDS1,113,2006,free drainage, ,NA
+MO,MUDS1,114,2006,free drainage,corn,8584
+MO,MUDS1,115,2006,free drainage, ,NA
+MO,MUDS1,116,2006,free drainage,corn,8753
+MO,MUDS1,203,2006,controlled drainage with subirrigation, ,NA
+MO,MUDS1,204,2006,controlled drainage with subirrigation, ,NA
+MO,MUDS1,205,2006,free drainage, ,NA
+MO,MUDS1,206,2006,free drainage,corn,8636
+MO,MUDS1,207,2006,free drainage,corn,8068
+MO,MUDS1,208,2006,free drainage, ,NA
+MO,MUDS1,209,2006,no drainage, ,NA
+MO,MUDS1,210,2006,no drainage,corn,13333
+MO,MUDS1,211,2006,controlled drainage with subirrigation, ,NA
+MO,MUDS1,212,2006,controlled drainage with subirrigation,corn,9955
+MO,MUDS1,215,2006,no drainage,corn,7837
+MO,MUDS1,216,2006,no drainage, ,NA
+MO,MUDS1,301,2006,no drainage, ,NA
+MO,MUDS1,302,2006,no drainage,corn,8513
+MO,MUDS1,303,2006,controlled drainage with subirrigation, ,NA
+MO,MUDS1,304,2006,controlled drainage with subirrigation,corn,10940
+MO,MUDS1,307,2006,controlled drainage with subirrigation,corn,12817
+MO,MUDS1,308,2006,controlled drainage with subirrigation, ,NA
+MO,MUDS1,309,2006,no drainage, ,NA
+MO,MUDS1,310,2006,no drainage,corn,14790
+MO,MUDS1,311,2006,free drainage, ,NA
+MO,MUDS1,312,2006,free drainage,corn,8770
+MO,MUDS1,315,2006,free drainage,corn,9363
+MO,MUDS1,316,2006,free drainage, ,NA
+MO,MUDS1,403,2006,free drainage,corn,8352
+MO,MUDS1,404,2006,free drainage, ,NA
+MO,MUDS1,405,2006,no drainage,corn,8451
+MO,MUDS1,406,2006,no drainage, ,NA
+MO,MUDS1,407,2006,free drainage, ,NA
+MO,MUDS1,408,2006,free drainage,corn,9522
+MO,MUDS1,409,2006,controlled drainage with subirrigation,corn,11069
+MO,MUDS1,410,2006,controlled drainage with subirrigation, ,NA
+MO,MUDS1,411,2006,controlled drainage with subirrigation,corn,10126
+MO,MUDS1,412,2006,controlled drainage with subirrigation, ,NA
+MO,MUDS1,415,2006,no drainage,corn,13975
+MO,MUDS1,416,2006,no drainage, ,NA
+MO,MUDS1,101,2006,controlled drainage with subirrigation, ,NA
+MO,MUDS1,102,2006,controlled drainage with subirrigation,corn,12878
+MO,MUDS1,103,2006,controlled drainage with subirrigation, ,NA
+MO,MUDS1,104,2006,controlled drainage with subirrigation,corn,10585
+MO,MUDS1,107,2006,no drainage, ,NA
+MO,MUDS1,108,2006,no drainage,corn,7196
+MO,MUDS1,111,2006,no drainage, ,NA
+MO,MUDS1,112,2006,no drainage,corn,15577
+MO,MUDS1,113,2006,free drainage, ,NA
+MO,MUDS1,114,2006,free drainage,corn,8809
+MO,MUDS1,115,2006,free drainage, ,NA
+MO,MUDS1,116,2006,free drainage,corn,8677
+MO,MUDS1,203,2006,controlled drainage with subirrigation, ,NA
+MO,MUDS1,204,2006,controlled drainage with subirrigation, ,NA
+MO,MUDS1,205,2006,free drainage, ,NA
+MO,MUDS1,206,2006,free drainage,corn,8526
+MO,MUDS1,207,2006,free drainage,corn,8242
+MO,MUDS1,208,2006,free drainage, ,NA
+MO,MUDS1,209,2006,no drainage, ,NA
+MO,MUDS1,210,2006,no drainage,corn,14804
+MO,MUDS1,211,2006,controlled drainage with subirrigation, ,NA
+MO,MUDS1,212,2006,controlled drainage with subirrigation,corn,10899
+MO,MUDS1,215,2006,no drainage,corn,7868
+MO,MUDS1,216,2006,no drainage, ,NA
+MO,MUDS1,301,2006,no drainage, ,NA
+MO,MUDS1,302,2006,no drainage,corn,8323
+MO,MUDS1,303,2006,controlled drainage with subirrigation, ,NA
+MO,MUDS1,304,2006,controlled drainage with subirrigation,corn,12648
+MO,MUDS1,307,2006,controlled drainage with subirrigation,corn,13953
+MO,MUDS1,308,2006,controlled drainage with subirrigation, ,NA
+MO,MUDS1,309,2006,no drainage, ,NA
+MO,MUDS1,310,2006,no drainage,corn,15100
+MO,MUDS1,311,2006,free drainage, ,NA
+MO,MUDS1,312,2006,free drainage,corn,9022
+MO,MUDS1,315,2006,free drainage,corn,8915
+MO,MUDS1,316,2006,free drainage, ,NA
+MO,MUDS1,403,2006,free drainage,corn,7915
+MO,MUDS1,404,2006,free drainage, ,NA
+MO,MUDS1,405,2006,no drainage,corn,9093
+MO,MUDS1,406,2006,no drainage, ,NA
+MO,MUDS1,407,2006,free drainage, ,NA
+MO,MUDS1,408,2006,free drainage,corn,9329
+MO,MUDS1,409,2006,controlled drainage with subirrigation,corn,12119
+MO,MUDS1,410,2006,controlled drainage with subirrigation, ,NA
+MO,MUDS1,411,2006,controlled drainage with subirrigation,corn,10865
+MO,MUDS1,412,2006,controlled drainage with subirrigation, ,NA
+MO,MUDS1,415,2006,no drainage,corn,14119
+MO,MUDS1,416,2006,no drainage, ,NA
+MO,MUDS1,101,2006,controlled drainage with subirrigation, ,NA
+MO,MUDS1,102,2006,controlled drainage with subirrigation,corn,12854
+MO,MUDS1,103,2006,controlled drainage with subirrigation, ,NA
+MO,MUDS1,104,2006,controlled drainage with subirrigation,corn,10517
+MO,MUDS1,107,2006,no drainage, ,NA
+MO,MUDS1,108,2006,no drainage,corn,7383
+MO,MUDS1,111,2006,no drainage, ,NA
+MO,MUDS1,112,2006,no drainage,corn,15953
+MO,MUDS1,113,2006,free drainage, ,NA
+MO,MUDS1,114,2006,free drainage,corn,8368
+MO,MUDS1,115,2006,free drainage, ,NA
+MO,MUDS1,116,2006,free drainage,corn,8506
+MO,MUDS1,203,2006,controlled drainage with subirrigation, ,NA
+MO,MUDS1,204,2006,controlled drainage with subirrigation, ,NA
+MO,MUDS1,205,2006,free drainage, ,NA
+MO,MUDS1,206,2006,free drainage,corn,7936
+MO,MUDS1,207,2006,free drainage,corn,8818
+MO,MUDS1,208,2006,free drainage, ,NA
+MO,MUDS1,209,2006,no drainage, ,NA
+MO,MUDS1,210,2006,no drainage,corn,15119
+MO,MUDS1,211,2006,controlled drainage with subirrigation, ,NA
+MO,MUDS1,212,2006,controlled drainage with subirrigation,corn,10540
+MO,MUDS1,215,2006,no drainage,corn,8883
+MO,MUDS1,216,2006,no drainage, ,NA
+MO,MUDS1,301,2006,no drainage, ,NA
+MO,MUDS1,302,2006,no drainage,corn,7500
+MO,MUDS1,303,2006,controlled drainage with subirrigation, ,NA
+MO,MUDS1,304,2006,controlled drainage with subirrigation,corn,12983
+MO,MUDS1,307,2006,controlled drainage with subirrigation,corn,13267
+MO,MUDS1,308,2006,controlled drainage with subirrigation, ,NA
+MO,MUDS1,309,2006,no drainage, ,NA
+MO,MUDS1,310,2006,no drainage,corn,15299
+MO,MUDS1,311,2006,free drainage, ,NA
+MO,MUDS1,312,2006,free drainage,corn,8736
+MO,MUDS1,315,2006,free drainage,corn,9340
+MO,MUDS1,316,2006,free drainage, ,NA
+MO,MUDS1,403,2006,free drainage,corn,9454
+MO,MUDS1,404,2006,free drainage, ,NA
+MO,MUDS1,405,2006,no drainage,corn,9009
+MO,MUDS1,406,2006,no drainage, ,NA
+MO,MUDS1,407,2006,free drainage, ,NA
+MO,MUDS1,408,2006,free drainage,corn,9821
+MO,MUDS1,409,2006,controlled drainage with subirrigation,corn,12390
+MO,MUDS1,410,2006,controlled drainage with subirrigation, ,NA
+MO,MUDS1,411,2006,controlled drainage with subirrigation,corn,11437
+MO,MUDS1,412,2006,controlled drainage with subirrigation, ,NA
+MO,MUDS1,415,2006,no drainage,corn,14032
+MO,MUDS1,416,2006,no drainage, ,NA
+MO,MUDS1,101,2007,controlled drainage with subirrigation,corn,5179
+MO,MUDS1,102,2007,controlled drainage with subirrigation,soy,4371
+MO,MUDS1,103,2007,controlled drainage with subirrigation,corn,5446
+MO,MUDS1,104,2007,controlled drainage with subirrigation,soy,4230
+MO,MUDS1,107,2007,no drainage,corn,7726
+MO,MUDS1,108,2007,no drainage,soy,2703
+MO,MUDS1,111,2007,no drainage,corn,6339
+MO,MUDS1,112,2007,no drainage,soy,2478
+MO,MUDS1,113,2007,free drainage,corn,5961
+MO,MUDS1,114,2007,free drainage,soy,3146
+MO,MUDS1,115,2007,free drainage,corn,5166
+MO,MUDS1,116,2007,free drainage,soy,2894
+MO,MUDS1,203,2007,controlled drainage with subirrigation,soy,4920
+MO,MUDS1,204,2007,controlled drainage with subirrigation, ,NA
+MO,MUDS1,205,2007,free drainage,corn,6732
+MO,MUDS1,206,2007,free drainage,soy,3235
+MO,MUDS1,207,2007,free drainage,soy,3158
+MO,MUDS1,208,2007,free drainage,corn,6038
+MO,MUDS1,209,2007,no drainage,corn,5943
+MO,MUDS1,210,2007,no drainage,soy,2835
+MO,MUDS1,211,2007,controlled drainage with subirrigation,corn,7706
+MO,MUDS1,212,2007,controlled drainage with subirrigation,soy,4165
+MO,MUDS1,215,2007,no drainage,soy,2777
+MO,MUDS1,216,2007,no drainage,corn,2891
+MO,MUDS1,301,2007,no drainage,corn,8257
+MO,MUDS1,302,2007,no drainage,soy,2653
+MO,MUDS1,303,2007,controlled drainage with subirrigation,corn,7429
+MO,MUDS1,304,2007,controlled drainage with subirrigation,soy,4185
+MO,MUDS1,307,2007,controlled drainage with subirrigation,soy,4223
+MO,MUDS1,308,2007,controlled drainage with subirrigation,corn,5478
+MO,MUDS1,309,2007,no drainage,corn,4676
+MO,MUDS1,310,2007,no drainage,soy,2586
+MO,MUDS1,311,2007,free drainage,corn,7583
+MO,MUDS1,312,2007,free drainage,soy,3098
+MO,MUDS1,315,2007,free drainage,soy,3755
+MO,MUDS1,316,2007,free drainage,corn,6880
+MO,MUDS1,403,2007,free drainage,soy,2880
+MO,MUDS1,404,2007,free drainage,corn,7378
+MO,MUDS1,405,2007,no drainage,soy,2872
+MO,MUDS1,406,2007,no drainage,corn,3151
+MO,MUDS1,407,2007,free drainage,corn,8163
+MO,MUDS1,408,2007,free drainage,soy,4001
+MO,MUDS1,409,2007,controlled drainage with subirrigation,soy,4138
+MO,MUDS1,410,2007,controlled drainage with subirrigation,corn,8609
+MO,MUDS1,411,2007,controlled drainage with subirrigation,soy,3818
+MO,MUDS1,412,2007,controlled drainage with subirrigation,corn,4764
+MO,MUDS1,415,2007,no drainage,soy,2976
+MO,MUDS1,416,2007,no drainage,corn,6297
+MO,MUDS1,101,2007,controlled drainage with subirrigation,corn,10144
+MO,MUDS1,102,2007,controlled drainage with subirrigation,soy,3457
+MO,MUDS1,103,2007,controlled drainage with subirrigation,corn,9765
+MO,MUDS1,104,2007,controlled drainage with subirrigation,soy,3219
+MO,MUDS1,107,2007,no drainage,corn,8867
+MO,MUDS1,108,2007,no drainage,soy,2552
+MO,MUDS1,111,2007,no drainage,corn,12437
+MO,MUDS1,112,2007,no drainage,soy,2327
+MO,MUDS1,113,2007,free drainage,corn,9001
+MO,MUDS1,114,2007,free drainage,soy,3001
+MO,MUDS1,115,2007,free drainage,corn,7937
+MO,MUDS1,116,2007,free drainage,soy,3324
+MO,MUDS1,203,2007,controlled drainage with subirrigation,soy,3961
+MO,MUDS1,204,2007,controlled drainage with subirrigation, ,NA
+MO,MUDS1,205,2007,free drainage,corn,9284
+MO,MUDS1,206,2007,free drainage,soy,3436
+MO,MUDS1,207,2007,free drainage,soy,3432
+MO,MUDS1,208,2007,free drainage,corn,9183
+MO,MUDS1,209,2007,no drainage,corn,13634
+MO,MUDS1,210,2007,no drainage,soy,2757
+MO,MUDS1,211,2007,controlled drainage with subirrigation,corn,9568
+MO,MUDS1,212,2007,controlled drainage with subirrigation,soy,3528
+MO,MUDS1,215,2007,no drainage,soy,2371
+MO,MUDS1,216,2007,no drainage,corn,6236
+MO,MUDS1,301,2007,no drainage,corn,14897
+MO,MUDS1,302,2007,no drainage,soy,2744
+MO,MUDS1,303,2007,controlled drainage with subirrigation,corn,10592
+MO,MUDS1,304,2007,controlled drainage with subirrigation,soy,3327
+MO,MUDS1,307,2007,controlled drainage with subirrigation,soy,2974
+MO,MUDS1,308,2007,controlled drainage with subirrigation,corn,11640
+MO,MUDS1,309,2007,no drainage,corn,8792
+MO,MUDS1,310,2007,no drainage,soy,2482
+MO,MUDS1,311,2007,free drainage,corn,8370
+MO,MUDS1,312,2007,free drainage,soy,3060
+MO,MUDS1,315,2007,free drainage,soy,3128
+MO,MUDS1,316,2007,free drainage,corn,10192
+MO,MUDS1,403,2007,free drainage,soy,2744
+MO,MUDS1,404,2007,free drainage,corn,9614
+MO,MUDS1,405,2007,no drainage,soy,2804
+MO,MUDS1,406,2007,no drainage,corn,4664
+MO,MUDS1,407,2007,free drainage,corn,10586
+MO,MUDS1,408,2007,free drainage,soy,3457
+MO,MUDS1,409,2007,controlled drainage with subirrigation,soy,3253
+MO,MUDS1,410,2007,controlled drainage with subirrigation,corn,10574
+MO,MUDS1,411,2007,controlled drainage with subirrigation,soy,3399
+MO,MUDS1,412,2007,controlled drainage with subirrigation,corn,10031
+MO,MUDS1,415,2007,no drainage,soy,3060
+MO,MUDS1,416,2007,no drainage,corn,13265
+MO,MUDS1,101,2007,controlled drainage with subirrigation,corn,8979
+MO,MUDS1,102,2007,controlled drainage with subirrigation,soy,3100
+MO,MUDS1,103,2007,controlled drainage with subirrigation,corn,8681
+MO,MUDS1,104,2007,controlled drainage with subirrigation,soy,3130
+MO,MUDS1,107,2007,no drainage,corn,8571
+MO,MUDS1,108,2007,no drainage,soy,2740
+MO,MUDS1,111,2007,no drainage,corn,11994
+MO,MUDS1,112,2007,no drainage,soy,2320
+MO,MUDS1,113,2007,free drainage,corn,9803
+MO,MUDS1,114,2007,free drainage,soy,3084
+MO,MUDS1,115,2007,free drainage,corn,8480
+MO,MUDS1,116,2007,free drainage,soy,3143
+MO,MUDS1,203,2007,controlled drainage with subirrigation,soy,3587
+MO,MUDS1,204,2007,controlled drainage with subirrigation, ,NA
+MO,MUDS1,205,2007,free drainage,corn,7859
+MO,MUDS1,206,2007,free drainage,soy,3215
+MO,MUDS1,207,2007,free drainage,soy,3153
+MO,MUDS1,208,2007,free drainage,corn,8091
+MO,MUDS1,209,2007,no drainage,corn,12224
+MO,MUDS1,210,2007,no drainage,soy,2851
+MO,MUDS1,211,2007,controlled drainage with subirrigation,corn,9079
+MO,MUDS1,212,2007,controlled drainage with subirrigation,soy,3307
+MO,MUDS1,215,2007,no drainage,soy,2606
+MO,MUDS1,216,2007,no drainage,corn,5049
+MO,MUDS1,301,2007,no drainage,corn,10808
+MO,MUDS1,302,2007,no drainage,soy,2663
+MO,MUDS1,303,2007,controlled drainage with subirrigation,corn,10049
+MO,MUDS1,304,2007,controlled drainage with subirrigation,soy,3401
+MO,MUDS1,307,2007,controlled drainage with subirrigation,soy,3319
+MO,MUDS1,308,2007,controlled drainage with subirrigation,corn,9233
+MO,MUDS1,309,2007,no drainage,corn,7867
+MO,MUDS1,310,2007,no drainage,soy,2589
+MO,MUDS1,311,2007,free drainage,corn,9287
+MO,MUDS1,312,2007,free drainage,soy,3176
+MO,MUDS1,315,2007,free drainage,soy,3157
+MO,MUDS1,316,2007,free drainage,corn,9085
+MO,MUDS1,403,2007,free drainage,soy,3126
+MO,MUDS1,404,2007,free drainage,corn,8907
+MO,MUDS1,405,2007,no drainage,soy,3070
+MO,MUDS1,406,2007,no drainage,corn,3045
+MO,MUDS1,407,2007,free drainage,corn,8518
+MO,MUDS1,408,2007,free drainage,soy,3336
+MO,MUDS1,409,2007,controlled drainage with subirrigation,soy,3775
+MO,MUDS1,410,2007,controlled drainage with subirrigation,corn,9855
+MO,MUDS1,411,2007,controlled drainage with subirrigation,soy,3186
+MO,MUDS1,412,2007,controlled drainage with subirrigation,corn,9150
+MO,MUDS1,415,2007,no drainage,soy,3097
+MO,MUDS1,416,2007,no drainage,corn,9136
+MO,MUDS1,101,2007,controlled drainage with subirrigation,corn,10197
+MO,MUDS1,102,2007,controlled drainage with subirrigation,soy,4360
+MO,MUDS1,103,2007,controlled drainage with subirrigation,corn,11117
+MO,MUDS1,104,2007,controlled drainage with subirrigation,soy,3788
+MO,MUDS1,107,2007,no drainage,corn,8327
+MO,MUDS1,108,2007,no drainage,soy,2771
+MO,MUDS1,111,2007,no drainage,corn,13296
+MO,MUDS1,112,2007,no drainage,soy,2266
+MO,MUDS1,113,2007,free drainage,corn,8244
+MO,MUDS1,114,2007,free drainage,soy,2785
+MO,MUDS1,115,2007,free drainage,corn,9007
+MO,MUDS1,116,2007,free drainage,soy,3114
+MO,MUDS1,203,2007,controlled drainage with subirrigation,soy,4620
+MO,MUDS1,204,2007,controlled drainage with subirrigation, ,NA
+MO,MUDS1,205,2007,free drainage,corn,8339
+MO,MUDS1,206,2007,free drainage,soy,3165
+MO,MUDS1,207,2007,free drainage,soy,3192
+MO,MUDS1,208,2007,free drainage,corn,6746
+MO,MUDS1,209,2007,no drainage,corn,13113
+MO,MUDS1,210,2007,no drainage,soy,2872
+MO,MUDS1,211,2007,controlled drainage with subirrigation,corn,8878
+MO,MUDS1,212,2007,controlled drainage with subirrigation,soy,3719
+MO,MUDS1,215,2007,no drainage,soy,2616
+MO,MUDS1,216,2007,no drainage,corn,4273
+MO,MUDS1,301,2007,no drainage,corn,13965
+MO,MUDS1,302,2007,no drainage,soy,2330
+MO,MUDS1,303,2007,controlled drainage with subirrigation,corn,12221
+MO,MUDS1,304,2007,controlled drainage with subirrigation,soy,4373
+MO,MUDS1,307,2007,controlled drainage with subirrigation,soy,4118
+MO,MUDS1,308,2007,controlled drainage with subirrigation,corn,11056
+MO,MUDS1,309,2007,no drainage,corn,8358
+MO,MUDS1,310,2007,no drainage,soy,2498
+MO,MUDS1,311,2007,free drainage,corn,8829
+MO,MUDS1,312,2007,free drainage,soy,3230
+MO,MUDS1,315,2007,free drainage,soy,3609
+MO,MUDS1,316,2007,free drainage,corn,10868
+MO,MUDS1,403,2007,free drainage,soy,2726
+MO,MUDS1,404,2007,free drainage,corn,9443
+MO,MUDS1,405,2007,no drainage,soy,3087
+MO,MUDS1,406,2007,no drainage,corn,5165
+MO,MUDS1,407,2007,free drainage,corn,9770
+MO,MUDS1,408,2007,free drainage,soy,3674
+MO,MUDS1,409,2007,controlled drainage with subirrigation,soy,4237
+MO,MUDS1,410,2007,controlled drainage with subirrigation,corn,9952
+MO,MUDS1,411,2007,controlled drainage with subirrigation,soy,3349
+MO,MUDS1,412,2007,controlled drainage with subirrigation,corn,9160
+MO,MUDS1,415,2007,no drainage,soy,3114
+MO,MUDS1,416,2007,no drainage,corn,10108
+MO,MUDS1,101,2007,controlled drainage with subirrigation,corn,10520
+MO,MUDS1,102,2007,controlled drainage with subirrigation,soy,4111
+MO,MUDS1,103,2007,controlled drainage with subirrigation,corn,9127
+MO,MUDS1,104,2007,controlled drainage with subirrigation,soy,3738
+MO,MUDS1,107,2007,no drainage,corn,8435
+MO,MUDS1,108,2007,no drainage,soy,2663
+MO,MUDS1,111,2007,no drainage,corn,13952
+MO,MUDS1,112,2007,no drainage,soy,2310
+MO,MUDS1,113,2007,free drainage,corn,7963
+MO,MUDS1,114,2007,free drainage,soy,3102
+MO,MUDS1,115,2007,free drainage,corn,5922
+MO,MUDS1,116,2007,free drainage,soy,3219
+MO,MUDS1,203,2007,controlled drainage with subirrigation,soy,4483
+MO,MUDS1,204,2007,controlled drainage with subirrigation, ,NA
+MO,MUDS1,205,2007,free drainage,corn,8421
+MO,MUDS1,206,2007,free drainage,soy,3358
+MO,MUDS1,207,2007,free drainage,soy,3198
+MO,MUDS1,208,2007,free drainage,corn,9993
+MO,MUDS1,209,2007,no drainage,corn,14178
+MO,MUDS1,210,2007,no drainage,soy,2640
+MO,MUDS1,211,2007,controlled drainage with subirrigation,corn,9683
+MO,MUDS1,212,2007,controlled drainage with subirrigation,soy,3872
+MO,MUDS1,215,2007,no drainage,soy,2804
+MO,MUDS1,216,2007,no drainage,corn,4982
+MO,MUDS1,301,2007,no drainage,corn,13642
+MO,MUDS1,302,2007,no drainage,soy,2337
+MO,MUDS1,303,2007,controlled drainage with subirrigation,corn,11292
+MO,MUDS1,304,2007,controlled drainage with subirrigation,soy,4031
+MO,MUDS1,307,2007,controlled drainage with subirrigation,soy,3895
+MO,MUDS1,308,2007,controlled drainage with subirrigation,corn,13412
+MO,MUDS1,309,2007,no drainage,corn,9982
+MO,MUDS1,310,2007,no drainage,soy,2814
+MO,MUDS1,311,2007,free drainage,corn,8935
+MO,MUDS1,312,2007,free drainage,soy,3340
+MO,MUDS1,315,2007,free drainage,soy,3471
+MO,MUDS1,316,2007,free drainage,corn,11102
+MO,MUDS1,403,2007,free drainage,soy,3060
+MO,MUDS1,404,2007,free drainage,corn,9215
+MO,MUDS1,405,2007,no drainage,soy,3073
+MO,MUDS1,406,2007,no drainage,corn,4359
+MO,MUDS1,407,2007,free drainage,corn,10844
+MO,MUDS1,408,2007,free drainage,soy,4048
+MO,MUDS1,409,2007,controlled drainage with subirrigation,soy,3997
+MO,MUDS1,410,2007,controlled drainage with subirrigation,corn,10922
+MO,MUDS1,411,2007,controlled drainage with subirrigation,soy,3570
+MO,MUDS1,412,2007,controlled drainage with subirrigation,corn,9685
+MO,MUDS1,415,2007,no drainage,soy,3083
+MO,MUDS1,416,2007,no drainage,corn,13515
+MO,MUDS1,101,2008,controlled drainage with subirrigation,soy,3067
+MO,MUDS1,102,2008,controlled drainage with subirrigation,corn,11447
+MO,MUDS1,103,2008,controlled drainage with subirrigation,soy,3106
+MO,MUDS1,104,2008,controlled drainage with subirrigation,corn,10996
+MO,MUDS1,107,2008,no drainage,soy,3561
+MO,MUDS1,108,2008,no drainage,corn,9902
+MO,MUDS1,111,2008,no drainage,soy,1917
+MO,MUDS1,112,2008,no drainage,corn,9607
+MO,MUDS1,113,2008,free drainage,soy,3240
+MO,MUDS1,114,2008,free drainage,corn,11154
+MO,MUDS1,115,2008,free drainage,soy,2773
+MO,MUDS1,116,2008,free drainage,corn,10229
+MO,MUDS1,203,2008,controlled drainage with subirrigation,corn,7154
+MO,MUDS1,204,2008,controlled drainage with subirrigation,soy,3167
+MO,MUDS1,205,2008,free drainage,soy,3383
+MO,MUDS1,206,2008,free drainage,corn,11437
+MO,MUDS1,207,2008,free drainage,corn,11985
+MO,MUDS1,208,2008,free drainage,soy,3549
+MO,MUDS1,209,2008,no drainage,soy,2788
+MO,MUDS1,210,2008,no drainage,corn,11622
+MO,MUDS1,211,2008,controlled drainage with subirrigation,soy,3275
+MO,MUDS1,212,2008,controlled drainage with subirrigation,corn,12042
+MO,MUDS1,215,2008,no drainage,corn,10771
+MO,MUDS1,216,2008,no drainage,soy,3046
+MO,MUDS1,301,2008,no drainage,soy,2616
+MO,MUDS1,302,2008,no drainage,corn,11487
+MO,MUDS1,303,2008,controlled drainage with subirrigation,corn,10738
+MO,MUDS1,304,2008,controlled drainage with subirrigation,soy,2869
+MO,MUDS1,307,2008,controlled drainage with subirrigation,corn,10972
+MO,MUDS1,308,2008,controlled drainage with subirrigation,soy,2340
+MO,MUDS1,309,2008,no drainage,soy,2586
+MO,MUDS1,310,2008,no drainage,corn,10536
+MO,MUDS1,311,2008,free drainage,soy,3192
+MO,MUDS1,312,2008,free drainage,corn,11876
+MO,MUDS1,315,2008,free drainage,corn,11184
+MO,MUDS1,316,2008,free drainage,soy,2683
+MO,MUDS1,403,2008,free drainage,corn,11880
+MO,MUDS1,404,2008,free drainage,soy,3348
+MO,MUDS1,405,2008,no drainage,corn,9707
+MO,MUDS1,406,2008,no drainage,soy,3295
+MO,MUDS1,407,2008,free drainage,soy,2898
+MO,MUDS1,408,2008,free drainage,corn,10188
+MO,MUDS1,409,2008,controlled drainage with subirrigation,corn,10882
+MO,MUDS1,410,2008,controlled drainage with subirrigation,soy,2228
+MO,MUDS1,411,2008,controlled drainage with subirrigation,corn,11099
+MO,MUDS1,412,2008,controlled drainage with subirrigation,soy,3054
+MO,MUDS1,415,2008,no drainage,corn,10784
+MO,MUDS1,416,2008,no drainage,soy,1873
+MO,MUDS1,101,2008,controlled drainage with subirrigation,soy,2047
+MO,MUDS1,102,2008,controlled drainage with subirrigation,corn,10246
+MO,MUDS1,103,2008,controlled drainage with subirrigation,soy,2712
+MO,MUDS1,104,2008,controlled drainage with subirrigation,corn,11828
+MO,MUDS1,107,2008,no drainage,soy,2959
+MO,MUDS1,108,2008,no drainage,corn,9783
+MO,MUDS1,111,2008,no drainage,soy,2418
+MO,MUDS1,112,2008,no drainage,corn,11550
+MO,MUDS1,113,2008,free drainage,soy,3146
+MO,MUDS1,114,2008,free drainage,corn,11968
+MO,MUDS1,115,2008,free drainage,soy,2990
+MO,MUDS1,116,2008,free drainage,corn,11514
+MO,MUDS1,203,2008,controlled drainage with subirrigation,corn,8905
+MO,MUDS1,204,2008,controlled drainage with subirrigation,soy,2302
+MO,MUDS1,205,2008,free drainage,soy,2721
+MO,MUDS1,206,2008,free drainage,corn,11897
+MO,MUDS1,207,2008,free drainage,corn,12366
+MO,MUDS1,208,2008,free drainage,soy,3102
+MO,MUDS1,209,2008,no drainage,soy,2979
+MO,MUDS1,210,2008,no drainage,corn,11201
+MO,MUDS1,211,2008,controlled drainage with subirrigation,soy,3037
+MO,MUDS1,212,2008,controlled drainage with subirrigation,corn,12408
+MO,MUDS1,215,2008,no drainage,corn,10147
+MO,MUDS1,216,2008,no drainage,soy,3255
+MO,MUDS1,301,2008,no drainage,soy,3030
+MO,MUDS1,302,2008,no drainage,corn,11700
+MO,MUDS1,303,2008,controlled drainage with subirrigation,corn,11981
+MO,MUDS1,304,2008,controlled drainage with subirrigation,soy,1757
+MO,MUDS1,307,2008,controlled drainage with subirrigation,corn,10950
+MO,MUDS1,308,2008,controlled drainage with subirrigation,soy,2013
+MO,MUDS1,309,2008,no drainage,soy,2720
+MO,MUDS1,310,2008,no drainage,corn,11368
+MO,MUDS1,311,2008,free drainage,soy,2849
+MO,MUDS1,312,2008,free drainage,corn,11608
+MO,MUDS1,315,2008,free drainage,corn,12860
+MO,MUDS1,316,2008,free drainage,soy,2668
+MO,MUDS1,403,2008,free drainage,corn,11693
+MO,MUDS1,404,2008,free drainage,soy,3364
+MO,MUDS1,405,2008,no drainage,corn,9422
+MO,MUDS1,406,2008,no drainage,soy,2851
+MO,MUDS1,407,2008,free drainage,soy,3037
+MO,MUDS1,408,2008,free drainage,corn,11949
+MO,MUDS1,409,2008,controlled drainage with subirrigation,corn,11368
+MO,MUDS1,410,2008,controlled drainage with subirrigation,soy,2614
+MO,MUDS1,411,2008,controlled drainage with subirrigation,corn,12171
+MO,MUDS1,412,2008,controlled drainage with subirrigation,soy,2777
+MO,MUDS1,415,2008,no drainage,corn,10658
+MO,MUDS1,416,2008,no drainage,soy,2075
+MO,MUDS1,101,2008,controlled drainage with subirrigation,soy,1419
+MO,MUDS1,102,2008,controlled drainage with subirrigation,corn,11564
+MO,MUDS1,103,2008,controlled drainage with subirrigation,soy,2394
+MO,MUDS1,104,2008,controlled drainage with subirrigation,corn,11591
+MO,MUDS1,107,2008,no drainage,soy,2401
+MO,MUDS1,108,2008,no drainage,corn,9679
+MO,MUDS1,111,2008,no drainage,soy,2340
+MO,MUDS1,112,2008,no drainage,corn,9488
+MO,MUDS1,113,2008,free drainage,soy,3065
+MO,MUDS1,114,2008,free drainage,corn,11104
+MO,MUDS1,115,2008,free drainage,soy,2699
+MO,MUDS1,116,2008,free drainage,corn,11826
+MO,MUDS1,203,2008,controlled drainage with subirrigation,corn,8072
+MO,MUDS1,204,2008,controlled drainage with subirrigation,soy,2517
+MO,MUDS1,205,2008,free drainage,soy,2638
+MO,MUDS1,206,2008,free drainage,corn,12353
+MO,MUDS1,207,2008,free drainage,corn,12634
+MO,MUDS1,208,2008,free drainage,soy,2768
+MO,MUDS1,209,2008,no drainage,soy,2633
+MO,MUDS1,210,2008,no drainage,corn,11794
+MO,MUDS1,211,2008,controlled drainage with subirrigation,soy,2660
+MO,MUDS1,212,2008,controlled drainage with subirrigation,corn,11774
+MO,MUDS1,215,2008,no drainage,corn,9824
+MO,MUDS1,216,2008,no drainage,soy,3151
+MO,MUDS1,301,2008,no drainage,soy,2875
+MO,MUDS1,302,2008,no drainage,corn,11707
+MO,MUDS1,303,2008,controlled drainage with subirrigation,corn,11510
+MO,MUDS1,304,2008,controlled drainage with subirrigation,soy,2795
+MO,MUDS1,307,2008,controlled drainage with subirrigation,corn,10657
+MO,MUDS1,308,2008,controlled drainage with subirrigation,soy,2395
+MO,MUDS1,309,2008,no drainage,soy,3534
+MO,MUDS1,310,2008,no drainage,corn,10800
+MO,MUDS1,311,2008,free drainage,soy,3107
+MO,MUDS1,312,2008,free drainage,corn,12483
+MO,MUDS1,315,2008,free drainage,corn,11853
+MO,MUDS1,316,2008,free drainage,soy,2582
+MO,MUDS1,403,2008,free drainage,corn,11651
+MO,MUDS1,404,2008,free drainage,soy,3305
+MO,MUDS1,405,2008,no drainage,corn,10191
+MO,MUDS1,406,2008,no drainage,soy,2693
+MO,MUDS1,407,2008,free drainage,soy,3040
+MO,MUDS1,408,2008,free drainage,corn,11441
+MO,MUDS1,409,2008,controlled drainage with subirrigation,corn,12027
+MO,MUDS1,410,2008,controlled drainage with subirrigation,soy,2865
+MO,MUDS1,411,2008,controlled drainage with subirrigation,corn,11478
+MO,MUDS1,412,2008,controlled drainage with subirrigation,soy,2920
+MO,MUDS1,415,2008,no drainage,corn,11597
+MO,MUDS1,416,2008,no drainage,soy,1718
+MO,MUDS1,101,2008,controlled drainage with subirrigation,soy,942
+MO,MUDS1,102,2008,controlled drainage with subirrigation,corn,9924
+MO,MUDS1,103,2008,controlled drainage with subirrigation,soy,1927
+MO,MUDS1,104,2008,controlled drainage with subirrigation,corn,10498
+MO,MUDS1,107,2008,no drainage,soy,2677
+MO,MUDS1,108,2008,no drainage,corn,9193
+MO,MUDS1,111,2008,no drainage,soy,2720
+MO,MUDS1,112,2008,no drainage,corn,10727
+MO,MUDS1,113,2008,free drainage,soy,3091
+MO,MUDS1,114,2008,free drainage,corn,12083
+MO,MUDS1,115,2008,free drainage,soy,2876
+MO,MUDS1,116,2008,free drainage,corn,11345
+MO,MUDS1,203,2008,controlled drainage with subirrigation,corn,8918
+MO,MUDS1,204,2008,controlled drainage with subirrigation,soy,2717
+MO,MUDS1,205,2008,free drainage,soy,2690
+MO,MUDS1,206,2008,free drainage,corn,11828
+MO,MUDS1,207,2008,free drainage,corn,12091
+MO,MUDS1,208,2008,free drainage,soy,3137
+MO,MUDS1,209,2008,no drainage,soy,1994
+MO,MUDS1,210,2008,no drainage,corn,11252
+MO,MUDS1,211,2008,controlled drainage with subirrigation,soy,2483
+MO,MUDS1,212,2008,controlled drainage with subirrigation,corn,12475
+MO,MUDS1,215,2008,no drainage,corn,10633
+MO,MUDS1,216,2008,no drainage,soy,2952
+MO,MUDS1,301,2008,no drainage,soy,2374
+MO,MUDS1,302,2008,no drainage,corn,12036
+MO,MUDS1,303,2008,controlled drainage with subirrigation,corn,11836
+MO,MUDS1,304,2008,controlled drainage with subirrigation,soy,2865
+MO,MUDS1,307,2008,controlled drainage with subirrigation,corn,10711
+MO,MUDS1,308,2008,controlled drainage with subirrigation,soy,2351
+MO,MUDS1,309,2008,no drainage,soy,2902
+MO,MUDS1,310,2008,no drainage,corn,10828
+MO,MUDS1,311,2008,free drainage,soy,3109
+MO,MUDS1,312,2008,free drainage,corn,12179
+MO,MUDS1,315,2008,free drainage,corn,12159
+MO,MUDS1,316,2008,free drainage,soy,2929
+MO,MUDS1,403,2008,free drainage,corn,11960
+MO,MUDS1,404,2008,free drainage,soy,3283
+MO,MUDS1,405,2008,no drainage,corn,10426
+MO,MUDS1,406,2008,no drainage,soy,3662
+MO,MUDS1,407,2008,free drainage,soy,3349
+MO,MUDS1,408,2008,free drainage,corn,11997
+MO,MUDS1,409,2008,controlled drainage with subirrigation,corn,11951
+MO,MUDS1,410,2008,controlled drainage with subirrigation,soy,3273
+MO,MUDS1,411,2008,controlled drainage with subirrigation,corn,11843
+MO,MUDS1,412,2008,controlled drainage with subirrigation,soy,3076
+MO,MUDS1,415,2008,no drainage,corn,8402
+MO,MUDS1,416,2008,no drainage,soy,2250
+MO,MUDS1,101,2008,controlled drainage with subirrigation,soy,2394
+MO,MUDS1,102,2008,controlled drainage with subirrigation,corn,12602
+MO,MUDS1,103,2008,controlled drainage with subirrigation,soy,3198
+MO,MUDS1,104,2008,controlled drainage with subirrigation,corn,13303
+MO,MUDS1,107,2008,no drainage,soy,3450
+MO,MUDS1,108,2008,no drainage,corn,11267
+MO,MUDS1,111,2008,no drainage,soy,2821
+MO,MUDS1,112,2008,no drainage,corn,10442
+MO,MUDS1,113,2008,free drainage,soy,3057
+MO,MUDS1,114,2008,free drainage,corn,11621
+MO,MUDS1,115,2008,free drainage,soy,2594
+MO,MUDS1,116,2008,free drainage,corn,11849
+MO,MUDS1,203,2008,controlled drainage with subirrigation,corn,8633
+MO,MUDS1,204,2008,controlled drainage with subirrigation,soy,2661
+MO,MUDS1,205,2008,free drainage,soy,2629
+MO,MUDS1,206,2008,free drainage,corn,12602
+MO,MUDS1,207,2008,free drainage,corn,12505
+MO,MUDS1,208,2008,free drainage,soy,2771
+MO,MUDS1,209,2008,no drainage,soy,2549
+MO,MUDS1,210,2008,no drainage,corn,12403
+MO,MUDS1,211,2008,controlled drainage with subirrigation,soy,2744
+MO,MUDS1,212,2008,controlled drainage with subirrigation,corn,12992
+MO,MUDS1,215,2008,no drainage,corn,11973
+MO,MUDS1,216,2008,no drainage,soy,3289
+MO,MUDS1,301,2008,no drainage,soy,3154
+MO,MUDS1,302,2008,no drainage,corn,9849
+MO,MUDS1,303,2008,controlled drainage with subirrigation,corn,10706
+MO,MUDS1,304,2008,controlled drainage with subirrigation,soy,2919
+MO,MUDS1,307,2008,controlled drainage with subirrigation,corn,11360
+MO,MUDS1,308,2008,controlled drainage with subirrigation,soy,2290
+MO,MUDS1,309,2008,no drainage,soy,3104
+MO,MUDS1,310,2008,no drainage,corn,11901
+MO,MUDS1,311,2008,free drainage,soy,3376
+MO,MUDS1,312,2008,free drainage,corn,11679
+MO,MUDS1,315,2008,free drainage,corn,11941
+MO,MUDS1,316,2008,free drainage,soy,2776
+MO,MUDS1,403,2008,free drainage,corn,12706
+MO,MUDS1,404,2008,free drainage,soy,3323
+MO,MUDS1,405,2008,no drainage,corn,10429
+MO,MUDS1,406,2008,no drainage,soy,3050
+MO,MUDS1,407,2008,free drainage,soy,3640
+MO,MUDS1,408,2008,free drainage,corn,11537
+MO,MUDS1,409,2008,controlled drainage with subirrigation,corn,13023
+MO,MUDS1,410,2008,controlled drainage with subirrigation,soy,2970
+MO,MUDS1,411,2008,controlled drainage with subirrigation,corn,12318
+MO,MUDS1,412,2008,controlled drainage with subirrigation,soy,3174
+MO,MUDS1,415,2008,no drainage,corn,9943
+MO,MUDS1,416,2008,no drainage,soy,2848
+MO,MUDS1,101,2009,controlled drainage with subirrigation,corn,11966
+MO,MUDS1,102,2009,controlled drainage with subirrigation,soy,3616
+MO,MUDS1,103,2009,controlled drainage with subirrigation,corn,9169
+MO,MUDS1,104,2009,controlled drainage with subirrigation,soy,3449
+MO,MUDS1,107,2009,no drainage,corn,9296
+MO,MUDS1,108,2009,no drainage,soy,2771
+MO,MUDS1,111,2009,no drainage,corn,860
+MO,MUDS1,112,2009,no drainage,soy,2566
+MO,MUDS1,113,2009,free drainage,corn,345
+MO,MUDS1,114,2009,free drainage,soy,3221
+MO,MUDS1,115,2009,free drainage,corn,5781
+MO,MUDS1,116,2009,free drainage,soy,2529
+MO,MUDS1,203,2009,controlled drainage with subirrigation,soy,3161
+MO,MUDS1,204,2009,controlled drainage with subirrigation,corn,10119
+MO,MUDS1,205,2009,free drainage,corn,6484
+MO,MUDS1,206,2009,free drainage,soy,3385
+MO,MUDS1,207,2009,free drainage,soy,3404
+MO,MUDS1,208,2009,free drainage,corn,7721
+MO,MUDS1,209,2009,no drainage,corn,6986
+MO,MUDS1,210,2009,no drainage,soy,2717
+MO,MUDS1,211,2009,controlled drainage with subirrigation,corn,9480
+MO,MUDS1,212,2009,controlled drainage with subirrigation,soy,3455
+MO,MUDS1,215,2009,no drainage,soy,2777
+MO,MUDS1,216,2009,no drainage,corn,11807
+MO,MUDS1,301,2009,no drainage,corn,8163
+MO,MUDS1,302,2009,no drainage,soy,2747
+MO,MUDS1,303,2009,controlled drainage with subirrigation,soy,3082
+MO,MUDS1,304,2009,controlled drainage with subirrigation,corn,9422
+MO,MUDS1,307,2009,controlled drainage with subirrigation,soy,3060
+MO,MUDS1,308,2009,controlled drainage with subirrigation,corn,5141
+MO,MUDS1,309,2009,no drainage,corn,11697
+MO,MUDS1,310,2009,no drainage,soy,2458
+MO,MUDS1,311,2009,free drainage,corn,9980
+MO,MUDS1,312,2009,free drainage,soy,3176
+MO,MUDS1,315,2009,free drainage,soy,2830
+MO,MUDS1,316,2009,free drainage,corn,9888
+MO,MUDS1,403,2009,free drainage,soy,3157
+MO,MUDS1,404,2009,free drainage,corn,11221
+MO,MUDS1,405,2009,no drainage,soy,2791
+MO,MUDS1,406,2009,no drainage,corn,8483
+MO,MUDS1,407,2009,free drainage,corn,9623
+MO,MUDS1,408,2009,free drainage,soy,3490
+MO,MUDS1,409,2009,controlled drainage with subirrigation,soy,2939
+MO,MUDS1,410,2009,controlled drainage with subirrigation,corn,6049
+MO,MUDS1,411,2009,controlled drainage with subirrigation,soy,3615
+MO,MUDS1,412,2009,controlled drainage with subirrigation,corn,7291
+MO,MUDS1,415,2009,no drainage,soy,2525
+MO,MUDS1,416,2009,no drainage,corn,10457
+MO,MUDS1,101,2009,controlled drainage with subirrigation,corn,13606
+MO,MUDS1,102,2009,controlled drainage with subirrigation,soy,3708
+MO,MUDS1,103,2009,controlled drainage with subirrigation,corn,7580
+MO,MUDS1,104,2009,controlled drainage with subirrigation,soy,3560
+MO,MUDS1,107,2009,no drainage,corn,9105
+MO,MUDS1,108,2009,no drainage,soy,2468
+MO,MUDS1,111,2009,no drainage,corn,7903
+MO,MUDS1,112,2009,no drainage,soy,2909
+MO,MUDS1,113,2009,free drainage,corn,10178
+MO,MUDS1,114,2009,free drainage,soy,3174
+MO,MUDS1,115,2009,free drainage,corn,14230
+MO,MUDS1,116,2009,free drainage,soy,3185
+MO,MUDS1,203,2009,controlled drainage with subirrigation,soy,3580
+MO,MUDS1,204,2009,controlled drainage with subirrigation,corn,9503
+MO,MUDS1,205,2009,free drainage,corn,13560
+MO,MUDS1,206,2009,free drainage,soy,3824
+MO,MUDS1,207,2009,free drainage,soy,3400
+MO,MUDS1,208,2009,free drainage,corn,12548
+MO,MUDS1,209,2009,no drainage,corn,14663
+MO,MUDS1,210,2009,no drainage,soy,2737
+MO,MUDS1,211,2009,controlled drainage with subirrigation,corn,10308
+MO,MUDS1,212,2009,controlled drainage with subirrigation,soy,3455
+MO,MUDS1,215,2009,no drainage,soy,2613
+MO,MUDS1,216,2009,no drainage,corn,9042
+MO,MUDS1,301,2009,no drainage,corn,12541
+MO,MUDS1,302,2009,no drainage,soy,3309
+MO,MUDS1,303,2009,controlled drainage with subirrigation,soy,3652
+MO,MUDS1,304,2009,controlled drainage with subirrigation,corn,14211
+MO,MUDS1,307,2009,controlled drainage with subirrigation,soy,2334
+MO,MUDS1,308,2009,controlled drainage with subirrigation,corn,6087
+MO,MUDS1,309,2009,no drainage,corn,15052
+MO,MUDS1,310,2009,no drainage,soy,2730
+MO,MUDS1,311,2009,free drainage,corn,8637
+MO,MUDS1,312,2009,free drainage,soy,3513
+MO,MUDS1,315,2009,free drainage,soy,3358
+MO,MUDS1,316,2009,free drainage,corn,9416
+MO,MUDS1,403,2009,free drainage,soy,3411
+MO,MUDS1,404,2009,free drainage,corn,10593
+MO,MUDS1,405,2009,no drainage,soy,2737
+MO,MUDS1,406,2009,no drainage,corn,10608
+MO,MUDS1,407,2009,free drainage,corn,11146
+MO,MUDS1,408,2009,free drainage,soy,3452
+MO,MUDS1,409,2009,controlled drainage with subirrigation,soy,3351
+MO,MUDS1,410,2009,controlled drainage with subirrigation,corn,12033
+MO,MUDS1,411,2009,controlled drainage with subirrigation,soy,4061
+MO,MUDS1,412,2009,controlled drainage with subirrigation,corn,7668
+MO,MUDS1,415,2009,no drainage,soy,3346
+MO,MUDS1,416,2009,no drainage,corn,11198
+MO,MUDS1,101,2009,controlled drainage with subirrigation,corn,11707
+MO,MUDS1,102,2009,controlled drainage with subirrigation,soy,3573
+MO,MUDS1,103,2009,controlled drainage with subirrigation,corn,2960
+MO,MUDS1,104,2009,controlled drainage with subirrigation,soy,3180
+MO,MUDS1,107,2009,no drainage,corn,15222
+MO,MUDS1,108,2009,no drainage,soy,2599
+MO,MUDS1,111,2009,no drainage,corn,3396
+MO,MUDS1,112,2009,no drainage,soy,3164
+MO,MUDS1,113,2009,free drainage,corn,9483
+MO,MUDS1,114,2009,free drainage,soy,3216
+MO,MUDS1,115,2009,free drainage,corn,3092
+MO,MUDS1,116,2009,free drainage,soy,2876
+MO,MUDS1,203,2009,controlled drainage with subirrigation,soy,3358
+MO,MUDS1,204,2009,controlled drainage with subirrigation,corn,9217
+MO,MUDS1,205,2009,free drainage,corn,6336
+MO,MUDS1,206,2009,free drainage,soy,3466
+MO,MUDS1,207,2009,free drainage,soy,3630
+MO,MUDS1,208,2009,free drainage,corn,8681
+MO,MUDS1,209,2009,no drainage,corn,10436
+MO,MUDS1,210,2009,no drainage,soy,3366
+MO,MUDS1,211,2009,controlled drainage with subirrigation,corn,7455
+MO,MUDS1,212,2009,controlled drainage with subirrigation,soy,3388
+MO,MUDS1,215,2009,no drainage,soy,2673
+MO,MUDS1,216,2009,no drainage,corn,9026
+MO,MUDS1,301,2009,no drainage,corn,7008
+MO,MUDS1,302,2009,no drainage,soy,3393
+MO,MUDS1,303,2009,controlled drainage with subirrigation,soy,3333
+MO,MUDS1,304,2009,controlled drainage with subirrigation,corn,1109
+MO,MUDS1,307,2009,controlled drainage with subirrigation,soy,2238
+MO,MUDS1,308,2009,controlled drainage with subirrigation,corn,7206
+MO,MUDS1,309,2009,no drainage,corn,14751
+MO,MUDS1,310,2009,no drainage,soy,3184
+MO,MUDS1,311,2009,free drainage,corn,2630
+MO,MUDS1,312,2009,free drainage,soy,3051
+MO,MUDS1,315,2009,free drainage,soy,2894
+MO,MUDS1,316,2009,free drainage,corn,8522
+MO,MUDS1,403,2009,free drainage,soy,3319
+MO,MUDS1,404,2009,free drainage,corn,11783
+MO,MUDS1,405,2009,no drainage,soy,3141
+MO,MUDS1,406,2009,no drainage,corn,9045
+MO,MUDS1,407,2009,free drainage,corn,12039
+MO,MUDS1,408,2009,free drainage,soy,3443
+MO,MUDS1,409,2009,controlled drainage with subirrigation,soy,3459
+MO,MUDS1,410,2009,controlled drainage with subirrigation,corn,6403
+MO,MUDS1,411,2009,controlled drainage with subirrigation,soy,3225
+MO,MUDS1,412,2009,controlled drainage with subirrigation,corn,7909
+MO,MUDS1,415,2009,no drainage,soy,3268
+MO,MUDS1,416,2009,no drainage,corn,8427
+MO,MUDS1,101,2009,controlled drainage with subirrigation,corn,8292
+MO,MUDS1,102,2009,controlled drainage with subirrigation,soy,2849
+MO,MUDS1,103,2009,controlled drainage with subirrigation,corn,11443
+MO,MUDS1,104,2009,controlled drainage with subirrigation,soy,2623
+MO,MUDS1,107,2009,no drainage,corn,8157
+MO,MUDS1,108,2009,no drainage,soy,3020
+MO,MUDS1,111,2009,no drainage,corn,NA
+MO,MUDS1,112,2009,no drainage,soy,3527
+MO,MUDS1,113,2009,free drainage,corn,11597
+MO,MUDS1,114,2009,free drainage,soy,3059
+MO,MUDS1,115,2009,free drainage,corn,4189
+MO,MUDS1,116,2009,free drainage,soy,3100
+MO,MUDS1,203,2009,controlled drainage with subirrigation,soy,3141
+MO,MUDS1,204,2009,controlled drainage with subirrigation,corn,9275
+MO,MUDS1,205,2009,free drainage,corn,8750
+MO,MUDS1,206,2009,free drainage,soy,3524
+MO,MUDS1,207,2009,free drainage,soy,3680
+MO,MUDS1,208,2009,free drainage,corn,12378
+MO,MUDS1,209,2009,no drainage,corn,12648
+MO,MUDS1,210,2009,no drainage,soy,3753
+MO,MUDS1,211,2009,controlled drainage with subirrigation,corn,11104
+MO,MUDS1,212,2009,controlled drainage with subirrigation,soy,3190
+MO,MUDS1,215,2009,no drainage,soy,2855
+MO,MUDS1,216,2009,no drainage,corn,11647
+MO,MUDS1,301,2009,no drainage,corn,9478
+MO,MUDS1,302,2009,no drainage,soy,3517
+MO,MUDS1,303,2009,controlled drainage with subirrigation,soy,3345
+MO,MUDS1,304,2009,controlled drainage with subirrigation,corn,10767
+MO,MUDS1,307,2009,controlled drainage with subirrigation,soy,2783
+MO,MUDS1,308,2009,controlled drainage with subirrigation,corn,3621
+MO,MUDS1,309,2009,no drainage,corn,13448
+MO,MUDS1,310,2009,no drainage,soy,3080
+MO,MUDS1,311,2009,free drainage,corn,12629
+MO,MUDS1,312,2009,free drainage,soy,2773
+MO,MUDS1,315,2009,free drainage,soy,3260
+MO,MUDS1,316,2009,free drainage,corn,7347
+MO,MUDS1,403,2009,free drainage,soy,3250
+MO,MUDS1,404,2009,free drainage,corn,12623
+MO,MUDS1,405,2009,no drainage,soy,3638
+MO,MUDS1,406,2009,no drainage,corn,11860
+MO,MUDS1,407,2009,free drainage,corn,10056
+MO,MUDS1,408,2009,free drainage,soy,3271
+MO,MUDS1,409,2009,controlled drainage with subirrigation,soy,3286
+MO,MUDS1,410,2009,controlled drainage with subirrigation,corn,6658
+MO,MUDS1,411,2009,controlled drainage with subirrigation,soy,3792
+MO,MUDS1,412,2009,controlled drainage with subirrigation,corn,8955
+MO,MUDS1,415,2009,no drainage,soy,2999
+MO,MUDS1,416,2009,no drainage,corn,7024
+MO,MUDS1,101,2009,controlled drainage with subirrigation,corn,11466
+MO,MUDS1,102,2009,controlled drainage with subirrigation,soy,4048
+MO,MUDS1,103,2009,controlled drainage with subirrigation,corn,11463
+MO,MUDS1,104,2009,controlled drainage with subirrigation,soy,3606
+MO,MUDS1,107,2009,no drainage,corn,8697
+MO,MUDS1,108,2009,no drainage,soy,3611
+MO,MUDS1,111,2009,no drainage,corn,NA
+MO,MUDS1,112,2009,no drainage,soy,3514
+MO,MUDS1,113,2009,free drainage,corn,11058
+MO,MUDS1,114,2009,free drainage,soy,3243
+MO,MUDS1,115,2009,free drainage,corn,13079
+MO,MUDS1,116,2009,free drainage,soy,3062
+MO,MUDS1,203,2009,controlled drainage with subirrigation,soy,3264
+MO,MUDS1,204,2009,controlled drainage with subirrigation,corn,12504
+MO,MUDS1,205,2009,free drainage,corn,11192
+MO,MUDS1,206,2009,free drainage,soy,3963
+MO,MUDS1,207,2009,free drainage,soy,3504
+MO,MUDS1,208,2009,free drainage,corn,10181
+MO,MUDS1,209,2009,no drainage,corn,10200
+MO,MUDS1,210,2009,no drainage,soy,3759
+MO,MUDS1,211,2009,controlled drainage with subirrigation,corn,7429
+MO,MUDS1,212,2009,controlled drainage with subirrigation,soy,3588
+MO,MUDS1,215,2009,no drainage,soy,3658
+MO,MUDS1,216,2009,no drainage,corn,8932
+MO,MUDS1,301,2009,no drainage,corn,10774
+MO,MUDS1,302,2009,no drainage,soy,3201
+MO,MUDS1,303,2009,controlled drainage with subirrigation,soy,3055
+MO,MUDS1,304,2009,controlled drainage with subirrigation,corn,12006
+MO,MUDS1,307,2009,controlled drainage with subirrigation,soy,3435
+MO,MUDS1,308,2009,controlled drainage with subirrigation,corn,9474
+MO,MUDS1,309,2009,no drainage,corn,12498
+MO,MUDS1,310,2009,no drainage,soy,3410
+MO,MUDS1,311,2009,free drainage,corn,9819
+MO,MUDS1,312,2009,free drainage,soy,3448
+MO,MUDS1,315,2009,free drainage,soy,3081
+MO,MUDS1,316,2009,free drainage,corn,11631
+MO,MUDS1,403,2009,free drainage,soy,3553
+MO,MUDS1,404,2009,free drainage,corn,12057
+MO,MUDS1,405,2009,no drainage,soy,3319
+MO,MUDS1,406,2009,no drainage,corn,8753
+MO,MUDS1,407,2009,free drainage,corn,13638
+MO,MUDS1,408,2009,free drainage,soy,4100
+MO,MUDS1,409,2009,controlled drainage with subirrigation,soy,3537
+MO,MUDS1,410,2009,controlled drainage with subirrigation,corn,11439
+MO,MUDS1,411,2009,controlled drainage with subirrigation,soy,3915
+MO,MUDS1,412,2009,controlled drainage with subirrigation,corn,14345
+MO,MUDS1,415,2009,no drainage,soy,3645
+MO,MUDS1,416,2009,no drainage,corn,6537
+MO,MUDS1,101,2010,controlled drainage with subirrigation,soy,3534
+MO,MUDS1,102,2010,controlled drainage with subirrigation,corn,10880
+MO,MUDS1,103,2010,controlled drainage with subirrigation,soy,3460
+MO,MUDS1,104,2010,controlled drainage with subirrigation,corn,9846
+MO,MUDS1,107,2010,no drainage,soy,3816
+MO,MUDS1,108,2010,no drainage,corn,9550
+MO,MUDS1,111,2010,no drainage,soy,3386
+MO,MUDS1,112,2010,no drainage,corn,9550
+MO,MUDS1,113,2010,free drainage,soy,3718
+MO,MUDS1,114,2010,free drainage,corn,9899
+MO,MUDS1,115,2010,free drainage,soy,3350
+MO,MUDS1,116,2010,free drainage,corn,10713
+MO,MUDS1,203,2010,controlled drainage with subirrigation,corn,10378
+MO,MUDS1,204,2010,controlled drainage with subirrigation,soy,3408
+MO,MUDS1,205,2010,free drainage,soy,3503
+MO,MUDS1,206,2010,free drainage,corn,10411
+MO,MUDS1,207,2010,free drainage,corn,11338
+MO,MUDS1,208,2010,free drainage,soy,4015
+MO,MUDS1,209,2010,no drainage,soy,3405
+MO,MUDS1,210,2010,no drainage,corn,10580
+MO,MUDS1,211,2010,controlled drainage with subirrigation,soy,3536
+MO,MUDS1,212,2010,controlled drainage with subirrigation,corn,11032
+MO,MUDS1,215,2010,no drainage,corn,10580
+MO,MUDS1,216,2010,no drainage,soy,3804
+MO,MUDS1,301,2010,no drainage,soy,3757
+MO,MUDS1,302,2010,no drainage,corn,11208
+MO,MUDS1,303,2010,controlled drainage with subirrigation,corn,13602
+MO,MUDS1,304,2010,controlled drainage with subirrigation,soy,3706
+MO,MUDS1,307,2010,controlled drainage with subirrigation,corn,11777
+MO,MUDS1,308,2010,controlled drainage with subirrigation,soy,3933
+MO,MUDS1,309,2010,no drainage,soy,3330
+MO,MUDS1,310,2010,no drainage,corn,11208
+MO,MUDS1,311,2010,free drainage,soy,3885
+MO,MUDS1,312,2010,free drainage,corn,13514
+MO,MUDS1,315,2010,free drainage,corn,11327
+MO,MUDS1,316,2010,free drainage,soy,3978
+MO,MUDS1,403,2010,free drainage,corn,10612
+MO,MUDS1,404,2010,free drainage,soy,4083
+MO,MUDS1,405,2010,no drainage,corn,9915
+MO,MUDS1,406,2010,no drainage,soy,4093
+MO,MUDS1,407,2010,free drainage,soy,4093
+MO,MUDS1,408,2010,free drainage,corn,11374
+MO,MUDS1,409,2010,controlled drainage with subirrigation,corn,9033
+MO,MUDS1,410,2010,controlled drainage with subirrigation,soy,3888
+MO,MUDS1,411,2010,controlled drainage with subirrigation,corn,10376
+MO,MUDS1,412,2010,controlled drainage with subirrigation,soy,3977
+MO,MUDS1,415,2010,no drainage,corn,9915
+MO,MUDS1,416,2010,no drainage,soy,2178
+MO,MUDS1,101,2010,controlled drainage with subirrigation,soy,3655
+MO,MUDS1,102,2010,controlled drainage with subirrigation,corn,11079
+MO,MUDS1,103,2010,controlled drainage with subirrigation,soy,4384
+MO,MUDS1,104,2010,controlled drainage with subirrigation,corn,9122
+MO,MUDS1,107,2010,no drainage,soy,4055
+MO,MUDS1,108,2010,no drainage,corn,11961
+MO,MUDS1,111,2010,no drainage,soy,4306
+MO,MUDS1,112,2010,no drainage,corn,11961
+MO,MUDS1,113,2010,free drainage,soy,4447
+MO,MUDS1,114,2010,free drainage,corn,11522
+MO,MUDS1,115,2010,free drainage,soy,3950
+MO,MUDS1,116,2010,free drainage,corn,11324
+MO,MUDS1,203,2010,controlled drainage with subirrigation,corn,11537
+MO,MUDS1,204,2010,controlled drainage with subirrigation,soy,3789
+MO,MUDS1,205,2010,free drainage,soy,3923
+MO,MUDS1,206,2010,free drainage,corn,11238
+MO,MUDS1,207,2010,free drainage,corn,11383
+MO,MUDS1,208,2010,free drainage,soy,4266
+MO,MUDS1,209,2010,no drainage,soy,3506
+MO,MUDS1,210,2010,no drainage,corn,10592
+MO,MUDS1,211,2010,controlled drainage with subirrigation,soy,3849
+MO,MUDS1,212,2010,controlled drainage with subirrigation,corn,10401
+MO,MUDS1,215,2010,no drainage,corn,10592
+MO,MUDS1,216,2010,no drainage,soy,3597
+MO,MUDS1,301,2010,no drainage,soy,3929
+MO,MUDS1,302,2010,no drainage,corn,10963
+MO,MUDS1,303,2010,controlled drainage with subirrigation,corn,14435
+MO,MUDS1,304,2010,controlled drainage with subirrigation,soy,3668
+MO,MUDS1,307,2010,controlled drainage with subirrigation,corn,10961
+MO,MUDS1,308,2010,controlled drainage with subirrigation,soy,3781
+MO,MUDS1,309,2010,no drainage,soy,3917
+MO,MUDS1,310,2010,no drainage,corn,10963
+MO,MUDS1,311,2010,free drainage,soy,4030
+MO,MUDS1,312,2010,free drainage,corn,13071
+MO,MUDS1,315,2010,free drainage,corn,11222
+MO,MUDS1,316,2010,free drainage,soy,4257
+MO,MUDS1,403,2010,free drainage,corn,11643
+MO,MUDS1,404,2010,free drainage,soy,4371
+MO,MUDS1,405,2010,no drainage,corn,12215
+MO,MUDS1,406,2010,no drainage,soy,3986
+MO,MUDS1,407,2010,free drainage,soy,4503
+MO,MUDS1,408,2010,free drainage,corn,11027
+MO,MUDS1,409,2010,controlled drainage with subirrigation,corn,9514
+MO,MUDS1,410,2010,controlled drainage with subirrigation,soy,4086
+MO,MUDS1,411,2010,controlled drainage with subirrigation,corn,10722
+MO,MUDS1,412,2010,controlled drainage with subirrigation,soy,4524
+MO,MUDS1,415,2010,no drainage,corn,12215
+MO,MUDS1,416,2010,no drainage,soy,4165
+MO,MUDS1,101,2010,controlled drainage with subirrigation,soy,3442
+MO,MUDS1,102,2010,controlled drainage with subirrigation,corn,10150
+MO,MUDS1,103,2010,controlled drainage with subirrigation,soy,4065
+MO,MUDS1,104,2010,controlled drainage with subirrigation,corn,8861
+MO,MUDS1,107,2010,no drainage,soy,3835
+MO,MUDS1,108,2010,no drainage,corn,10144
+MO,MUDS1,111,2010,no drainage,soy,4055
+MO,MUDS1,112,2010,no drainage,corn,10144
+MO,MUDS1,113,2010,free drainage,soy,4317
+MO,MUDS1,114,2010,free drainage,corn,11452
+MO,MUDS1,115,2010,free drainage,soy,3904
+MO,MUDS1,116,2010,free drainage,corn,11359
+MO,MUDS1,203,2010,controlled drainage with subirrigation,corn,10711
+MO,MUDS1,204,2010,controlled drainage with subirrigation,soy,3931
+MO,MUDS1,205,2010,free drainage,soy,4074
+MO,MUDS1,206,2010,free drainage,corn,11297
+MO,MUDS1,207,2010,free drainage,corn,11125
+MO,MUDS1,208,2010,free drainage,soy,4391
+MO,MUDS1,209,2010,no drainage,soy,3562
+MO,MUDS1,210,2010,no drainage,corn,10166
+MO,MUDS1,211,2010,controlled drainage with subirrigation,soy,3944
+MO,MUDS1,212,2010,controlled drainage with subirrigation,corn,10672
+MO,MUDS1,215,2010,no drainage,corn,10166
+MO,MUDS1,216,2010,no drainage,soy,4036
+MO,MUDS1,301,2010,no drainage,soy,3785
+MO,MUDS1,302,2010,no drainage,corn,10454
+MO,MUDS1,303,2010,controlled drainage with subirrigation,corn,13380
+MO,MUDS1,304,2010,controlled drainage with subirrigation,soy,3714
+MO,MUDS1,307,2010,controlled drainage with subirrigation,corn,10999
+MO,MUDS1,308,2010,controlled drainage with subirrigation,soy,4095
+MO,MUDS1,309,2010,no drainage,soy,3744
+MO,MUDS1,310,2010,no drainage,corn,10454
+MO,MUDS1,311,2010,free drainage,soy,3808
+MO,MUDS1,312,2010,free drainage,corn,14025
+MO,MUDS1,315,2010,free drainage,corn,12228
+MO,MUDS1,316,2010,free drainage,soy,4565
+MO,MUDS1,403,2010,free drainage,corn,10750
+MO,MUDS1,404,2010,free drainage,soy,4170
+MO,MUDS1,405,2010,no drainage,corn,12526
+MO,MUDS1,406,2010,no drainage,soy,4504
+MO,MUDS1,407,2010,free drainage,soy,4379
+MO,MUDS1,408,2010,free drainage,corn,11181
+MO,MUDS1,409,2010,controlled drainage with subirrigation,corn,10405
+MO,MUDS1,410,2010,controlled drainage with subirrigation,soy,4260
+MO,MUDS1,411,2010,controlled drainage with subirrigation,corn,9910
+MO,MUDS1,412,2010,controlled drainage with subirrigation,soy,4449
+MO,MUDS1,415,2010,no drainage,corn,12526
+MO,MUDS1,416,2010,no drainage,soy,3838
+MO,MUDS1,101,2010,controlled drainage with subirrigation,soy,3498
+MO,MUDS1,102,2010,controlled drainage with subirrigation,corn,10026
+MO,MUDS1,103,2010,controlled drainage with subirrigation,soy,3957
+MO,MUDS1,104,2010,controlled drainage with subirrigation,corn,8517
+MO,MUDS1,107,2010,no drainage,soy,3816
+MO,MUDS1,108,2010,no drainage,corn,8807
+MO,MUDS1,111,2010,no drainage,soy,4196
+MO,MUDS1,112,2010,no drainage,corn,8807
+MO,MUDS1,113,2010,free drainage,soy,4439
+MO,MUDS1,114,2010,free drainage,corn,9039
+MO,MUDS1,115,2010,free drainage,soy,4030
+MO,MUDS1,116,2010,free drainage,corn,11907
+MO,MUDS1,203,2010,controlled drainage with subirrigation,corn,10769
+MO,MUDS1,204,2010,controlled drainage with subirrigation,soy,4026
+MO,MUDS1,205,2010,free drainage,soy,4383
+MO,MUDS1,206,2010,free drainage,corn,12223
+MO,MUDS1,207,2010,free drainage,corn,9964
+MO,MUDS1,208,2010,free drainage,soy,3776
+MO,MUDS1,209,2010,no drainage,soy,3641
+MO,MUDS1,210,2010,no drainage,corn,9306
+MO,MUDS1,211,2010,controlled drainage with subirrigation,soy,3951
+MO,MUDS1,212,2010,controlled drainage with subirrigation,corn,10500
+MO,MUDS1,215,2010,no drainage,corn,9306
+MO,MUDS1,216,2010,no drainage,soy,4165
+MO,MUDS1,301,2010,no drainage,soy,3754
+MO,MUDS1,302,2010,no drainage,corn,9871
+MO,MUDS1,303,2010,controlled drainage with subirrigation,corn,14295
+MO,MUDS1,304,2010,controlled drainage with subirrigation,soy,3927
+MO,MUDS1,307,2010,controlled drainage with subirrigation,corn,10853
+MO,MUDS1,308,2010,controlled drainage with subirrigation,soy,4106
+MO,MUDS1,309,2010,no drainage,soy,4093
+MO,MUDS1,310,2010,no drainage,corn,9871
+MO,MUDS1,311,2010,free drainage,soy,3875
+MO,MUDS1,312,2010,free drainage,corn,12891
+MO,MUDS1,315,2010,free drainage,corn,11040
+MO,MUDS1,316,2010,free drainage,soy,4632
+MO,MUDS1,403,2010,free drainage,corn,11759
+MO,MUDS1,404,2010,free drainage,soy,4312
+MO,MUDS1,405,2010,no drainage,corn,10822
+MO,MUDS1,406,2010,no drainage,soy,4309
+MO,MUDS1,407,2010,free drainage,soy,4538
+MO,MUDS1,408,2010,free drainage,corn,12753
+MO,MUDS1,409,2010,controlled drainage with subirrigation,corn,8742
+MO,MUDS1,410,2010,controlled drainage with subirrigation,soy,4411
+MO,MUDS1,411,2010,controlled drainage with subirrigation,corn,7773
+MO,MUDS1,412,2010,controlled drainage with subirrigation,soy,4651
+MO,MUDS1,415,2010,no drainage,corn,10822
+MO,MUDS1,416,2010,no drainage,soy,3763
+MO,MUDS1,101,2010,controlled drainage with subirrigation,soy,4001
+MO,MUDS1,102,2010,controlled drainage with subirrigation,corn,12217
+MO,MUDS1,103,2010,controlled drainage with subirrigation,soy,4483
+MO,MUDS1,104,2010,controlled drainage with subirrigation,corn,11871
+MO,MUDS1,107,2010,no drainage,soy,4293
+MO,MUDS1,108,2010,no drainage,corn,10495
+MO,MUDS1,111,2010,no drainage,soy,4046
+MO,MUDS1,112,2010,no drainage,corn,10495
+MO,MUDS1,113,2010,free drainage,soy,4194
+MO,MUDS1,114,2010,free drainage,corn,12123
+MO,MUDS1,115,2010,free drainage,soy,3898
+MO,MUDS1,116,2010,free drainage,corn,11694
+MO,MUDS1,203,2010,controlled drainage with subirrigation,corn,10832
+MO,MUDS1,204,2010,controlled drainage with subirrigation,soy,3655
+MO,MUDS1,205,2010,free drainage,soy,4189
+MO,MUDS1,206,2010,free drainage,corn,11891
+MO,MUDS1,207,2010,free drainage,corn,10732
+MO,MUDS1,208,2010,free drainage,soy,4297
+MO,MUDS1,209,2010,no drainage,soy,4052
+MO,MUDS1,210,2010,no drainage,corn,11430
+MO,MUDS1,211,2010,controlled drainage with subirrigation,soy,4064
+MO,MUDS1,212,2010,controlled drainage with subirrigation,corn,12693
+MO,MUDS1,215,2010,no drainage,corn,11430
+MO,MUDS1,216,2010,no drainage,soy,4614
+MO,MUDS1,301,2010,no drainage,soy,3650
+MO,MUDS1,302,2010,no drainage,corn,9372
+MO,MUDS1,303,2010,controlled drainage with subirrigation,corn,13173
+MO,MUDS1,304,2010,controlled drainage with subirrigation,soy,3676
+MO,MUDS1,307,2010,controlled drainage with subirrigation,corn,10913
+MO,MUDS1,308,2010,controlled drainage with subirrigation,soy,3998
+MO,MUDS1,309,2010,no drainage,soy,4096
+MO,MUDS1,310,2010,no drainage,corn,9372
+MO,MUDS1,311,2010,free drainage,soy,4193
+MO,MUDS1,312,2010,free drainage,corn,13684
+MO,MUDS1,315,2010,free drainage,corn,10796
+MO,MUDS1,316,2010,free drainage,soy,4486
+MO,MUDS1,403,2010,free drainage,corn,11251
+MO,MUDS1,404,2010,free drainage,soy,4634
+MO,MUDS1,405,2010,no drainage,corn,11311
+MO,MUDS1,406,2010,no drainage,soy,4240
+MO,MUDS1,407,2010,free drainage,soy,4419
+MO,MUDS1,408,2010,free drainage,corn,12839
+MO,MUDS1,409,2010,controlled drainage with subirrigation,corn,11554
+MO,MUDS1,410,2010,controlled drainage with subirrigation,soy,4758
+MO,MUDS1,411,2010,controlled drainage with subirrigation,corn,11407
+MO,MUDS1,412,2010,controlled drainage with subirrigation,soy,4381
+MO,MUDS1,415,2010,no drainage,corn,11311
+MO,MUDS1,416,2010,no drainage,soy,4017
+MO,MUDS1,101,2011,controlled drainage with subirrigation,corn,8119
+MO,MUDS1,102,2011,controlled drainage with subirrigation,soy,4314
+MO,MUDS1,103,2011,controlled drainage with subirrigation,corn,3854
+MO,MUDS1,104,2011,controlled drainage with subirrigation,soy,3741
+MO,MUDS1,107,2011,no drainage,corn,3101
+MO,MUDS1,108,2011,no drainage,soy,2925
+MO,MUDS1,111,2011,no drainage,corn,5530
+MO,MUDS1,112,2011,no drainage,soy,2777
+MO,MUDS1,113,2011,free drainage,corn,6683
+MO,MUDS1,114,2011,free drainage,soy,3226
+MO,MUDS1,115,2011,free drainage,corn,7262
+MO,MUDS1,116,2011,free drainage,soy,3534
+MO,MUDS1,203,2011,controlled drainage with subirrigation,soy,4667
+MO,MUDS1,204,2011,controlled drainage with subirrigation,corn,7783
+MO,MUDS1,205,2011,free drainage,corn,9356
+MO,MUDS1,206,2011,free drainage,soy,3968
+MO,MUDS1,207,2011,free drainage,soy,3432
+MO,MUDS1,208,2011,free drainage,corn,6580
+MO,MUDS1,209,2011,no drainage,corn,7463
+MO,MUDS1,210,2011,no drainage,soy,3161
+MO,MUDS1,211,2011,controlled drainage with subirrigation,corn,7537
+MO,MUDS1,212,2011,controlled drainage with subirrigation,soy,4270
+MO,MUDS1,215,2011,no drainage,soy,3053
+MO,MUDS1,216,2011,no drainage,corn,4337
+MO,MUDS1,301,2011,no drainage,corn,4733
+MO,MUDS1,302,2011,no drainage,soy,2670
+MO,MUDS1,303,2011,controlled drainage with subirrigation,corn,8684
+MO,MUDS1,304,2011,controlled drainage with subirrigation,soy,4257
+MO,MUDS1,307,2011,controlled drainage with subirrigation,soy,4459
+MO,MUDS1,308,2011,controlled drainage with subirrigation,corn,6578
+MO,MUDS1,309,2011,no drainage,corn,5894
+MO,MUDS1,310,2011,no drainage,soy,2912
+MO,MUDS1,311,2011,free drainage,corn,8524
+MO,MUDS1,312,2011,free drainage,soy,3551
+MO,MUDS1,315,2011,free drainage,soy,3871
+MO,MUDS1,316,2011,free drainage,corn,8083
+MO,MUDS1,403,2011,free drainage,soy,3262
+MO,MUDS1,404,2011,free drainage,corn,7173
+MO,MUDS1,405,2011,no drainage,soy,2791
+MO,MUDS1,406,2011,no drainage, ,NA
+MO,MUDS1,407,2011,free drainage,corn,8283
+MO,MUDS1,408,2011,free drainage,soy,3968
+MO,MUDS1,409,2011,controlled drainage with subirrigation,soy,3991
+MO,MUDS1,410,2011,controlled drainage with subirrigation,corn,8587
+MO,MUDS1,411,2011,controlled drainage with subirrigation,soy,3421
+MO,MUDS1,412,2011,controlled drainage with subirrigation,corn,7474
+MO,MUDS1,415,2011,no drainage,soy,2549
+MO,MUDS1,416,2011,no drainage,corn,5568
+MO,MUDS1,101,2012,controlled drainage with subirrigation,soy,3954
+MO,MUDS1,102,2012,controlled drainage with subirrigation,corn,6233
+MO,MUDS1,103,2012,controlled drainage with subirrigation,soy,3033
+MO,MUDS1,104,2012,controlled drainage with subirrigation,corn,4622
+MO,MUDS1,107,2012,no drainage,soy,1762
+MO,MUDS1,108,2012,no drainage,corn,1689
+MO,MUDS1,111,2012,no drainage,soy,1695
+MO,MUDS1,112,2012,no drainage,corn,2787
+MO,MUDS1,113,2012,free drainage,soy,2358
+MO,MUDS1,114,2012,free drainage,corn,2320
+MO,MUDS1,115,2012,free drainage,soy,2347
+MO,MUDS1,116,2012,free drainage,corn,2272
+MO,MUDS1,203,2012,controlled drainage with subirrigation,corn,6217
+MO,MUDS1,204,2012,controlled drainage with subirrigation,soy,4741
+MO,MUDS1,205,2012,free drainage,soy,2118
+MO,MUDS1,206,2012,free drainage,corn,1814
+MO,MUDS1,207,2012,free drainage,corn,1498
+MO,MUDS1,208,2012,free drainage,soy,2336
+MO,MUDS1,209,2012,no drainage,soy,2038
+MO,MUDS1,210,2012,no drainage,corn,1663
+MO,MUDS1,211,2012,controlled drainage with subirrigation,soy,3037
+MO,MUDS1,212,2012,controlled drainage with subirrigation,corn,3814
+MO,MUDS1,215,2012,no drainage,corn,1795
+MO,MUDS1,216,2012,no drainage,soy,1755
+MO,MUDS1,301,2012,no drainage,soy,1997
+MO,MUDS1,302,2012,no drainage,corn,2071
+MO,MUDS1,303,2012,controlled drainage with subirrigation,soy,4889
+MO,MUDS1,304,2012,controlled drainage with subirrigation,corn,5995
+MO,MUDS1,307,2012,controlled drainage with subirrigation,corn,5428
+MO,MUDS1,308,2012,controlled drainage with subirrigation,soy,4037
+MO,MUDS1,309,2012,no drainage,soy,2085
+MO,MUDS1,310,2012,no drainage,corn,2247
+MO,MUDS1,311,2012,free drainage,soy,2714
+MO,MUDS1,312,2012,free drainage,corn,3157
+MO,MUDS1,315,2012,free drainage,corn,3879
+MO,MUDS1,316,2012,free drainage,soy,2425
+MO,MUDS1,403,2012,free drainage,corn,3111
+MO,MUDS1,404,2012,free drainage,soy,2248
+MO,MUDS1,405,2012,no drainage,corn,1751
+MO,MUDS1,406,2012,no drainage,soy,2038
+MO,MUDS1,407,2012,free drainage,soy,2690
+MO,MUDS1,408,2012,free drainage,corn,3349
+MO,MUDS1,409,2012,controlled drainage with subirrigation,corn,4805
+MO,MUDS1,410,2012,controlled drainage with subirrigation,soy,3968
+MO,MUDS1,411,2012,controlled drainage with subirrigation,corn,3582
+MO,MUDS1,412,2012,controlled drainage with subirrigation,soy,3363
+MO,MUDS1,415,2012,no drainage,corn,2435
+MO,MUDS1,416,2012,no drainage,soy,2071
+MO,MUDS1,101,2013,controlled drainage with subirrigation,corn,11286
+MO,MUDS1,102,2013,controlled drainage with subirrigation,soy,3588
+MO,MUDS1,103,2013,controlled drainage with subirrigation,corn,8242
+MO,MUDS1,104,2013,controlled drainage with subirrigation,soy,3136
+MO,MUDS1,107,2013,no drainage,corn,7225
+MO,MUDS1,108,2013,no drainage,soy,1856
+MO,MUDS1,111,2013,no drainage,corn,7520
+MO,MUDS1,112,2013,no drainage,soy,2347
+MO,MUDS1,113,2013,free drainage,corn,7321
+MO,MUDS1,114,2013,free drainage,soy,2257
+MO,MUDS1,115,2013,free drainage,corn,7325
+MO,MUDS1,116,2013,free drainage,soy,2616
+MO,MUDS1,203,2013,controlled drainage with subirrigation,soy,4048
+MO,MUDS1,204,2013,controlled drainage with subirrigation,corn,11575
+MO,MUDS1,205,2013,free drainage,corn,8574
+MO,MUDS1,206,2013,free drainage,soy,2798
+MO,MUDS1,207,2013,free drainage,soy,2780
+MO,MUDS1,208,2013,free drainage,corn,8076
+MO,MUDS1,209,2013,no drainage,corn,8524
+MO,MUDS1,210,2013,no drainage,soy,2367
+MO,MUDS1,211,2013,controlled drainage with subirrigation,corn,9949
+MO,MUDS1,212,2013,controlled drainage with subirrigation,soy,3302
+MO,MUDS1,215,2013,no drainage,soy,2360
+MO,MUDS1,216,2013,no drainage,corn,7306
+MO,MUDS1,301,2013,no drainage,corn,8687
+MO,MUDS1,302,2013,no drainage,soy,2360
+MO,MUDS1,303,2013,controlled drainage with subirrigation,corn,11782
+MO,MUDS1,304,2013,controlled drainage with subirrigation,soy,3480
+MO,MUDS1,307,2013,controlled drainage with subirrigation,soy,3481
+MO,MUDS1,308,2013,controlled drainage with subirrigation,corn,10361
+MO,MUDS1,309,2013,no drainage,corn,8078
+MO,MUDS1,310,2013,no drainage,soy,2401
+MO,MUDS1,311,2013,free drainage,corn,8734
+MO,MUDS1,312,2013,free drainage,soy,2428
+MO,MUDS1,315,2013,free drainage,soy,2771
+MO,MUDS1,316,2013,free drainage,corn,10248
+MO,MUDS1,403,2013,free drainage,soy,2300
+MO,MUDS1,404,2013,free drainage,corn,9024
+MO,MUDS1,405,2013,no drainage,soy,2273
+MO,MUDS1,406,2013,no drainage,corn,8838
+MO,MUDS1,407,2013,free drainage,corn,10206
+MO,MUDS1,408,2013,free drainage,soy,2586
+MO,MUDS1,409,2013,controlled drainage with subirrigation,soy,3487
+MO,MUDS1,410,2013,controlled drainage with subirrigation,corn,11317
+MO,MUDS1,411,2013,controlled drainage with subirrigation,soy,3127
+MO,MUDS1,412,2013,controlled drainage with subirrigation,corn,10246
+MO,MUDS1,415,2013,no drainage,soy,2206
+MO,MUDS1,416,2013,no drainage,corn,7193
+MO,MUDS1,101,2014,controlled drainage with subirrigation,soy,4731
+MO,MUDS1,102,2014,controlled drainage with subirrigation,corn,14861
+MO,MUDS1,103,2014,controlled drainage with subirrigation,soy,4972
+MO,MUDS1,104,2014,controlled drainage with subirrigation,corn,15590
+MO,MUDS1,107,2014,no drainage,soy,4610
+MO,MUDS1,108,2014,no drainage,corn,14613
+MO,MUDS1,111,2014,no drainage,soy,4640
+MO,MUDS1,112,2014,no drainage,corn,16245
+MO,MUDS1,113,2014,free drainage,soy,5107
+MO,MUDS1,114,2014,free drainage,corn,16316
+MO,MUDS1,115,2014,free drainage,soy,4795
+MO,MUDS1,116,2014,free drainage,corn,16198
+MO,MUDS1,203,2014,controlled drainage with subirrigation,corn,15172
+MO,MUDS1,204,2014,controlled drainage with subirrigation,soy,4748
+MO,MUDS1,205,2014,free drainage,soy,5266
+MO,MUDS1,206,2014,free drainage,corn,14111
+MO,MUDS1,207,2014,free drainage,corn,13742
+MO,MUDS1,208,2014,free drainage,soy,5521
+MO,MUDS1,209,2014,no drainage,soy,4371
+MO,MUDS1,210,2014,no drainage,corn,15159
+MO,MUDS1,211,2014,controlled drainage with subirrigation,soy,4723
+MO,MUDS1,212,2014,controlled drainage with subirrigation,corn,14477
+MO,MUDS1,215,2014,no drainage,corn,15341
+MO,MUDS1,216,2014,no drainage,soy,4993
+MO,MUDS1,301,2014,no drainage,soy,5098
+MO,MUDS1,302,2014,no drainage,corn,17412
+MO,MUDS1,303,2014,controlled drainage with subirrigation,soy,4872
+MO,MUDS1,304,2014,controlled drainage with subirrigation,corn,16063
+MO,MUDS1,307,2014,controlled drainage with subirrigation,corn,16588
+MO,MUDS1,308,2014,controlled drainage with subirrigation,soy,4598
+MO,MUDS1,309,2014,no drainage,soy,4737
+MO,MUDS1,310,2014,no drainage,corn,17519
+MO,MUDS1,311,2014,free drainage,soy,5619
+MO,MUDS1,312,2014,free drainage,corn,17965
+MO,MUDS1,315,2014,free drainage,corn,17860
+MO,MUDS1,316,2014,free drainage,soy,4903
+MO,MUDS1,403,2014,free drainage,corn,16419
+MO,MUDS1,404,2014,free drainage,soy,5443
+MO,MUDS1,405,2014,no drainage,corn,16358
+MO,MUDS1,406,2014,no drainage,soy,5053
+MO,MUDS1,407,2014,free drainage,soy,4687
+MO,MUDS1,408,2014,free drainage,corn,17036
+MO,MUDS1,409,2014,controlled drainage with subirrigation,corn,17205
+MO,MUDS1,410,2014,controlled drainage with subirrigation,soy,4590
+MO,MUDS1,411,2014,controlled drainage with subirrigation,corn,17117
+MO,MUDS1,412,2014,controlled drainage with subirrigation,soy,5387
+MO,MUDS1,415,2014,no drainage,corn,17243
+MO,MUDS1,416,2014,no drainage,soy,4963
+MO,MUDS1,101,2015,controlled drainage with subirrigation,corn,9171
+MO,MUDS1,102,2015,controlled drainage with subirrigation,soy,612
+MO,MUDS1,103,2015,controlled drainage with subirrigation,corn,8706
+MO,MUDS1,104,2015,controlled drainage with subirrigation,soy,901
+MO,MUDS1,107,2015,no drainage,corn,4595
+MO,MUDS1,108,2015,no drainage,soy,625
+MO,MUDS1,111,2015,no drainage,corn,7702
+MO,MUDS1,112,2015,no drainage,soy,955
+MO,MUDS1,113,2015,free drainage,corn,12548
+MO,MUDS1,114,2015,free drainage,soy,1601
+MO,MUDS1,115,2015,free drainage,corn,12912
+MO,MUDS1,116,2015,free drainage,soy,1311
+MO,MUDS1,203,2015,controlled drainage with subirrigation,soy,1614
+MO,MUDS1,204,2015,controlled drainage with subirrigation,corn,12736
+MO,MUDS1,205,2015,free drainage,corn,12567
+MO,MUDS1,206,2015,free drainage,soy,1627
+MO,MUDS1,207,2015,free drainage,soy,1614
+MO,MUDS1,208,2015,free drainage,corn,9993
+MO,MUDS1,209,2015,no drainage,corn,6151
+MO,MUDS1,210,2015,no drainage,soy,1506
+MO,MUDS1,211,2015,controlled drainage with subirrigation,corn,11612
+MO,MUDS1,212,2015,controlled drainage with subirrigation,soy,1446
+MO,MUDS1,215,2015,no drainage,soy,1473
+MO,MUDS1,216,2015,no drainage,corn,9014
+MO,MUDS1,301,2015,no drainage,corn,10119
+MO,MUDS1,302,2015,no drainage,soy,1352
+MO,MUDS1,303,2015,controlled drainage with subirrigation,corn,11179
+MO,MUDS1,304,2015,controlled drainage with subirrigation,soy,1843
+MO,MUDS1,307,2015,controlled drainage with subirrigation,soy,1540
+MO,MUDS1,308,2015,controlled drainage with subirrigation,corn,4488
+MO,MUDS1,309,2015,no drainage,corn,8493
+MO,MUDS1,310,2015,no drainage,soy,1103
+MO,MUDS1,311,2015,free drainage,corn,13489
+MO,MUDS1,312,2015,free drainage,soy,2434
+MO,MUDS1,315,2015,free drainage,soy,1997
+MO,MUDS1,316,2015,free drainage,corn,6032
+MO,MUDS1,403,2015,free drainage,soy,1796
+MO,MUDS1,404,2015,free drainage,corn,12667
+MO,MUDS1,405,2015,no drainage,soy,1722
+MO,MUDS1,406,2015,no drainage,corn,9585
+MO,MUDS1,407,2015,free drainage,corn,9667
+MO,MUDS1,408,2015,free drainage,soy,3040
+MO,MUDS1,409,2015,controlled drainage with subirrigation,soy,1533
+MO,MUDS1,410,2015,controlled drainage with subirrigation,corn,9497
+MO,MUDS1,411,2015,controlled drainage with subirrigation,soy,1567
+MO,MUDS1,412,2015,controlled drainage with subirrigation,corn,9516
+MO,MUDS1,415,2015,no drainage,soy,794
+MO,MUDS1,416,2015,no drainage,corn,3986
+MO,MUDS1,101,2016,controlled drainage with subirrigation,soy,5652
+MO,MUDS1,102,2016,controlled drainage with subirrigation,corn,11655
+MO,MUDS1,103,2016,controlled drainage with subirrigation,soy,4663
+MO,MUDS1,104,2016,controlled drainage with subirrigation,corn,14312
+MO,MUDS1,107,2016,no drainage,soy,4172
+MO,MUDS1,108,2016,no drainage,corn,15084
+MO,MUDS1,111,2016,no drainage,soy,4373
+MO,MUDS1,112,2016,no drainage,corn,16189
+MO,MUDS1,113,2016,free drainage,soy,5107
+MO,MUDS1,114,2016,free drainage,corn,15969
+MO,MUDS1,115,2016,free drainage,soy,6059
+MO,MUDS1,116,2016,free drainage,corn,15724
+MO,MUDS1,203,2016,controlled drainage with subirrigation,corn,15473
+MO,MUDS1,204,2016,controlled drainage with subirrigation,soy,5877
+MO,MUDS1,205,2016,free drainage,soy,5907
+MO,MUDS1,206,2016,free drainage,corn,15693
+MO,MUDS1,207,2016,free drainage,corn,16122
+MO,MUDS1,208,2016,free drainage,soy,6073
+MO,MUDS1,209,2016,no drainage,soy,4414
+MO,MUDS1,210,2016,no drainage,corn,14525
+MO,MUDS1,211,2016,controlled drainage with subirrigation,soy,5412
+MO,MUDS1,212,2016,controlled drainage with subirrigation,corn,16434
+MO,MUDS1,215,2016,no drainage,corn,14381
+MO,MUDS1,216,2016,no drainage,soy,4669
+MO,MUDS1,301,2016,no drainage,soy,4165
+MO,MUDS1,302,2016,no drainage,corn,15323
+MO,MUDS1,303,2016,controlled drainage with subirrigation,soy,5911
+MO,MUDS1,304,2016,controlled drainage with subirrigation,corn,18101
+MO,MUDS1,307,2016,controlled drainage with subirrigation,corn,17068
+MO,MUDS1,308,2016,controlled drainage with subirrigation,soy,5143
+MO,MUDS1,309,2016,no drainage,soy,4562
+MO,MUDS1,310,2016,no drainage,corn,15260
+MO,MUDS1,311,2016,free drainage,soy,5756
+MO,MUDS1,312,2016,free drainage,corn,16224
+MO,MUDS1,315,2016,free drainage,corn,17260
+MO,MUDS1,316,2016,free drainage,soy,4363
+MO,MUDS1,403,2016,free drainage,corn,16968
+MO,MUDS1,404,2016,free drainage,soy,5773
+MO,MUDS1,405,2016,no drainage,corn,16987
+MO,MUDS1,406,2016,no drainage,soy,3485
+MO,MUDS1,407,2016,free drainage,soy,4242
+MO,MUDS1,408,2016,free drainage,corn,17250
+MO,MUDS1,409,2016,controlled drainage with subirrigation,corn,17803
+MO,MUDS1,410,2016,controlled drainage with subirrigation,soy,5083
+MO,MUDS1,411,2016,controlled drainage with subirrigation,corn,17437
+MO,MUDS1,412,2016,controlled drainage with subirrigation,soy,5389
+MO,MUDS1,415,2016,no drainage,corn,14418
+MO,MUDS1,416,2016,no drainage,soy,3788
+MO,MUDS3_NEW,101,2016,free drainage,,12349.1
+MO,MUDS3_NEW,102,2016,controlled drainage with subirrigation,,12603.4
+MO,MUDS3_NEW,103,2016,no drainage,,11918.9
+MO,MUDS3_NEW,201,2016,no drainage,,12126.2
+MO,MUDS3_NEW,202,2016,controlled drainage with subirrigation,,13074.4
+MO,MUDS3_NEW,203,2016,free drainage,,12550
+OH,VANWERT,D,1997,free drainage,corn,9322
+OH,VANWERT,S,1997,controlled drainage with subirrigation,corn,9052
+OH,VANWERT,D,1997,free drainage,soy,3183
+OH,VANWERT,S,1997,controlled drainage with subirrigation,soy,3129
+OH,VANWERT,D,1998,free drainage,corn,10171
+OH,VANWERT,S,1998,controlled drainage with subirrigation,corn,9498
+OH,VANWERT,D,1998,free drainage,soy,2778
+OH,VANWERT,S,1998,controlled drainage with subirrigation,soy,2765
+OH,VANWERT,D,1999,free drainage,corn,9844
+OH,VANWERT,S,1999,controlled drainage with subirrigation,corn,11918
+OH,VANWERT,D,1999,free drainage,soy,2643
+OH,VANWERT,S,1999,controlled drainage with subirrigation,soy,3506
+OH,VANWERT,D,2000,free drainage,corn,9687
+OH,VANWERT,S,2000,controlled drainage with subirrigation,corn,10912
+OH,VANWERT,D,2000,free drainage,soy,3216
+OH,VANWERT,S,2000,controlled drainage with subirrigation,soy,3581
+OH,VANWERT,D,2001,free drainage,corn,11855
+OH,VANWERT,S,2001,controlled drainage with subirrigation,corn,12911
+OH,VANWERT,D,2001,free drainage,soy,3608
+OH,VANWERT,S,2001,controlled drainage with subirrigation,soy,3634
+OH,VANWERT,D,2002,free drainage,corn,NA
+OH,VANWERT,S,2002,controlled drainage with subirrigation,corn,NA
+OH,VANWERT,D,2002,free drainage,soy,3007
+OH,VANWERT,S,2002,controlled drainage with subirrigation,soy,4187
+OH,VANWERT,D,2003,free drainage,corn,NA
+OH,VANWERT,S,2003,controlled drainage with subirrigation,corn,NA
+OH,VANWERT,D,2003,free drainage,soy,2522
+OH,VANWERT,S,2003,controlled drainage with subirrigation,soy,2690
+OH,VANWERT,D,2004,free drainage,corn,11038
+OH,VANWERT,S,2004,controlled drainage with subirrigation,corn,12069
+OH,VANWERT,D,2004,free drainage,soy,3641
+OH,VANWERT,S,2004,controlled drainage with subirrigation,soy,3365
+OH,VANWERT,D,2005,free drainage,corn,11849
+OH,VANWERT,S,2005,controlled drainage with subirrigation,corn,11793
+OH,VANWERT,D,2005,free drainage,soy,4740
+OH,VANWERT,S,2005,controlled drainage with subirrigation,soy,5064
+OH,VANWERT,D,2006,free drainage,corn,7229
+OH,VANWERT,S,2006,controlled drainage with subirrigation,corn,8455
+OH,VANWERT,D,2006,free drainage,soy,3109
+OH,VANWERT,S,2006,controlled drainage with subirrigation,soy,3270
+OH,VANWERT,D,2007,free drainage,corn,6946
+OH,VANWERT,S,2007,controlled drainage with subirrigation,corn,8681
+OH,VANWERT,D,2007,free drainage,soy,4491
+OH,VANWERT,S,2007,controlled drainage with subirrigation,soy,4457
+OH,VANWERT,D,2007,free drainage,corn,NA
+OH,VANWERT,S,2007,controlled drainage with subirrigation,corn,NA
+OH,VANWERT,D,2007,free drainage,soy,2974
+OH,VANWERT,S,2007,controlled drainage with subirrigation,soy,3931
